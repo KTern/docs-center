@@ -1,4 +1,3 @@
-
 <h1 align=center>Dot Hugo | <a target="_blank" href="https://demo.gethugothemes.com/dot" rel="nofollow">Demo</a> | <a  target="_blank" href="https://lighthouse-dot-webdotdevsite.appspot.com//lh/html?url=https%3A%2F%2Fdemo.gethugothemes.com%2Fdot%2F">Page Speed (81%)</a></h1>
 
 <p align=center>
@@ -27,16 +26,17 @@
 </p>
 
 ---
-## Features
-- Multiple language support (Fr, En) 
-- Google analytics  support
-- CSS and Js bundle with hugo pipe
-- Color and fonts variable in config file
-- Contact form Support
-- Google page speed optimized ( 81% )
-- Open graph meta tag
-- Twitter card meta tag
 
+## Features
+
+-  Multiple language support (Fr, En)
+-  Google analytics support
+-  CSS and Js bundle with hugo pipe
+-  Color and fonts variable in config file
+-  Contact form Support
+-  Google page speed optimized ( 81% )
+-  Open graph meta tag
+-  Twitter card meta tag
 
 ## Local development
 
@@ -45,11 +45,12 @@
 git clone git@github.com:themefisher/dot-hugo.git
 
 # cd in the project directory
-$ cd dot-hugo/exampleSite/
+$ cd dot-hugo/docs/
 
 # Start local dev server
 $ hugo server --themesDir ../..
 ```
+
 Or Check out [Full Documentation](https://docs.gethugothemes.com/dot/?ref=github).
 
 ## Content Management System
@@ -62,6 +63,7 @@ repository in Forestry](https://app.forestry.io/quick-start?repo=themefisher/dot
 you will be able to edit and preview your site ✨.
 
 Any changes you make in Forestry will be committed back to the repo and deployed if you use [Netlify](#netlify).
+
 ## Deployment and hosting
 
 [![Deploy to
@@ -70,24 +72,30 @@ Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com
 Follow the steps.
 
 ## Prefer a video? (Hugo + Netlify + Forestry)
+
 Build your website with **Dot Hugo** theme by following these easy steps (No Coding Required!)
 [Video Tutorial](https://youtu.be/ResipmZmpDU).
 
 <!-- reporting issue -->
+
 ## Reporting Issues
+
 We use GitHub Issues as the official bug tracker for the dot Template. Please Search [existing
 issues](https://github.com/themefisher/dot-hugo/issues). Someone may have already reported the same problem.
 If your problem or idea has not been addressed yet, feel free to [open a new
 issue](https://github.com/themefisher/dot-hugo/issues).
 
 ## Dot Hugo theme Powered Websites
-- https://beatcovid.info/
-- https://hannuvierimaa.fi/
+
+-  https://beatcovid.info/
+-  https://hannuvierimaa.fi/
 
 Want to submit your own website powered by Dot Hugo theme? You can submit it [here](https://github.com/themefisher/dot-hugo/discussions/170).
 
 <!-- licence -->
+
 ## License
+
 Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed by
 [Gethugothemes](https://gethugothemes.com)
 
@@ -97,21 +105,25 @@ Copyright &copy; Designed by [Themefisher](https://themefisher.com) & Developed 
 share those images.
 
 <!-- resources -->
-## Special Thanks
-- [Bootstrap](https://getbootstrap.com)
-- [Jquery](https://jquery.com)
-- [Themify Icons](https://themify.me/themify-icons)
-- [Jquery Match Height](https://brm.io/jquery-match-height/)
-- [Google Fonts](https://fonts.google.com/)
-- [All Contributors](https://github.com/themefisher/dot-hugo/graphs/contributors)
 
+## Special Thanks
+
+-  [Bootstrap](https://getbootstrap.com)
+-  [Jquery](https://jquery.com)
+-  [Themify Icons](https://themify.me/themify-icons)
+-  [Jquery Match Height](https://brm.io/jquery-match-height/)
+-  [Google Fonts](https://fonts.google.com/)
+-  [All Contributors](https://github.com/themefisher/dot-hugo/graphs/contributors)
 
 ## Hire Us
+
 We are available for **Hiring** for your next HUGO project. Please, check our
 [services](https://gethugothemes.com/services/?ref=github)
 
 <!-- premium themes -->
+
 ## Premium Themes By Us
+
 | [![Mega-Bundle-HUGO](https://demo.gethugothemes.com/thumbnails/bundle.webp)](https://gethugothemes.com/bundle) | [![Agen](https://demo.gethugothemes.com/thumbnails/agen.webp)](https://gethugothemes.com/products/agen/) | [![wishfund](https://demo.gethugothemes.com/thumbnails/wishfund.webp)](https://gethugothemes.com/products/wishfund/) |
-|:---:|:---:|:---:|
-| **Premium Theme Bundle (40+)** | **Agen** | **Wishfund** |
+| :------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: |
+|                                         **Premium Theme Bundle (40+)**                                         |                                                 **Agen**                                                 |                                                     **Wishfund**                                                     |
