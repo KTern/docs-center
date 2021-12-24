@@ -200,8 +200,3 @@ hasChildren = true
   name = "Features"
   url = "features"
   weight = 3
-
-
-.blob { 
-  
-}
