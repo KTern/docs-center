@@ -1,14 +1,14 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://ktern.com/docs/"
+baseURL = "/documentation"
 # theme
 theme = "dot-hugo"
 # site title
-title = "Dot"
+title = "KTern.AI Documentation Portal"
 # disable language
 disableLanguages = []
 # google analytics
-googleAnalytics = "" # paste your analytics ID here. (Ex: UA-123-45)
+googleAnalytics = "G-RRP806CL72" # paste your analytics ID here. (Ex: UA-123-45)
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
@@ -17,26 +17,26 @@ unsafe = true
 ############################# Default Parameters ##########################
 [params]
 # logo is for all page
-logo = ""
+logo = "https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/ktern-logo.png"
 # logo white is for homepage logo, you can use colorful logo too...
 logo_white = "https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/White%20Logo.svg"
 # when logo is empty, it will shown your site title
 
 # OpenGraph / Twitter Card metadata
-description = "This is meta description"
-author = "Themefisher"
-image = "images/logo.png" # this image will be used as fallback if a page has no image of its own
+description = "The KTern.AI Documentation Portal - the home of all our valuable information. Find here everything you need to guide you in your SAP led Digital transformation journey in the KTern.AI ecosystem, from getting started guides to quick tutorials, to practical business examples and automation best practices."
+author = "KTern.AI"
+image = "images/ktern-ai-cyborg-hero.png" # this image will be used as fallback if a page has no image of its own
 
 # customize color
-primary_color = "#02007e"
-body_color = "#f9f9f9"
-text_color = "#636363"
+primary_color = "#111217"
+body_color = "#F2F4FA"
+text_color = "#333333"
 text_color_dark = "#242738"
 white_color = "#ffffff"
 light_color = "#f8f9fa"
 
 # font family
-font_family = "lato" # Choose font family from : https://fonts.google.com/
+font_family = "Barlow" # Choose font family from : https://fonts.google.com/
 
 # contact form action
 contact_form_action = "#" # contact form works with : https://formspree.io
@@ -46,29 +46,34 @@ contact_form_action = "#" # contact form works with : https://formspree.io
 [[params.social]]
 icon = "ti-facebook" # themify icon pack : https://themify.me/themify-icons
 name = "Facebook"
-link = "#"
+link = "https://www.facebook.com/KTernAIOfficial"
 
 [[params.social]]
 icon = "ti-twitter-alt" # themify icon pack : https://themify.me/themify-icons
 name = "Twitter"
-link = "#"
+link = "https://twitter.com/KTernOfficial"
   
 [[params.social]]
 icon = "ti-github" # themify icon pack : https://themify.me/themify-icons
 name = "Github"
-link = "#"
+link = "https://github.com/KTern"
   
 [[params.social]]
 icon = "ti-linkedin" # themify icon pack : https://themify.me/themify-icons
 name = "Linkedin"
-link = "#"
+link = "https://www.linkedin.com/company/ktern"
+
+[[params.social]]
+icon = "ti-youtube" # themify icon pack : https://themify.me/themify-icons
+name = "YouTube"
+link = "https://www.youtube.com/channel/UCAhQc3bSZ95pucSyweFtusA"
 
 ################################ English Language ######################
 [Languages.en]
 languageName = "En"
 languageCode = "en-us"
 weight = 1
-copyright = "Copyright &copy; 2021 a Hugo theme by [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Copyright &copy; 2021 [KTern.AI](https://ktern.com/) All rights reserved"
 
 # banner
 [Languages.en.params.banner]
@@ -195,3 +200,8 @@ hasChildren = true
   name = "Features"
   url = "features"
   weight = 3
+
+
+.blob { 
+  
+}
