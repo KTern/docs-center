@@ -26,7 +26,7 @@ h6 {
 
 h1,
 .h1 {
-  font-size: 45px;
+  font-size: 40px;
 }
 
 h2,
@@ -394,8 +394,8 @@ pre {
 }
 
 .banner p {
-  font-size: 20px;
-  opacity: .8;
+  font-size: 16px;
+  /* opacity: .8; */
 }
 
 .banner .nav-link.text-dark {

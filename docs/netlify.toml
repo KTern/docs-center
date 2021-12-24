@@ -1,5 +1,5 @@
 [build]
-  publish = "public"
+  publish = "public/documentation"
   command = "hugo --minify --gc"
   
 [build.environment]
@@ -14,10 +14,3 @@
   X-XSS-Protection = "1; mode=block"
   Referrer-Policy = "same-origin"
   Strict-Transport-Security = "max-age=31536000; includeSubDomains; preload"
-
-[[redirects]]
-  from = "/documentation"
-  to = "/"
-  status = 301
-  force = true 
-  headers = {X-From = "Netlify"}
