@@ -18,7 +18,6 @@
 [[redirects]]
   from = "/documentation"
   to = "/"
-  status = 200
+  status = 301
   force = true 
   headers = {X-From = "Netlify"}
-  signed = "API_SIGNATURE_TOKEN"
