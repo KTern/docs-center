@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-
+baseURL = "/"
 # theme
 theme = "dot-hugo"
 # site title
@@ -200,3 +200,8 @@ hasChildren = true
   name = "Features"
   url = "features"
   weight = 3
+
+
+.blob { 
+  
+}
