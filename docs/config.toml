@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://ktern-docs.netlify.app/docs"
+baseURL = "https://ktern-docs.netlify.app/documentation/"
 # theme
 theme = "dot-hugo"
 # site title
