@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "/documentation/"
+baseURL = "http://localhost:1313/documentation/"
 # theme
 theme = "dot-hugo"
 # site title
@@ -77,9 +77,9 @@ copyright = "Copyright &copy; 2021 [KTern.AI](https://ktern.com/) All rights res
 
 # banner
 [Languages.en.params.banner]
-title = "Support Center & Knowledge base"
+title = "KTern.AI Documentation Center"
 subtitle = "Find advice and answers from our support team fast or get in touch"
-bg_image = "images/banner.jpg"
+bg_image = "https://storage.googleapis.com/ktern-public-files/website/Backgrounds/banner.png"
 placeholder = "Have a question? Just ask here or enter terms"
 
 # call to action
