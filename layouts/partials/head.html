@@ -8,13 +8,13 @@
   {{ "<!-- ** CSS Plugins Needed for the Project ** -->" | safeHTML }}
   
   {{ "<!-- Bootstrap -->" | safeHTML }}
-  <link rel="stylesheet" href="{{ `plugins/bootstrap/bootstrap.min.css` | relLangURL }}">
+  <link rel="stylesheet" href="{{ `plugins/bootstrap/bootstrap.min.css` | relURL }}">
 
   {{ "<!-- themefy-icon -->" | safeHTML }}
-  <link rel="stylesheet" href="{{ `plugins/themify-icons/themify-icons.css` | relLangURL }}">
+  <link rel="stylesheet" href="{{ `plugins/themify-icons/themify-icons.css` | relURL }}">
 
   {{ "<!--Favicon-->" | safeHTML }}
-  <link rel="icon" href="{{ `images/favicon.png` | relLangURL }}" type="image/x-icon">
+  <link rel="icon" href="{{ `images/favicon.png` | relURL }}" type="image/x-icon">
 
   {{ "<!-- fonts -->" | safeHTML }}
   <link href="https://fonts.googleapis.com/css?family={{replace .Site.Params.font_family ' ' '+' | title}}:300,400,700&display=swap" rel="stylesheet">
@@ -42,16 +42,16 @@
 {{ "<!-- ** JS Plugins Needed for the Project ** -->" | safeHTML }}
 
 {{ "<!-- jquiry -->" | safeHTML }}
-<script src="{{ `plugins/jquery/jquery-1.12.4.js` | relLangURL }}"></script>
+<script src="{{ `plugins/jquery/jquery-1.12.4.js` | relURL }}"></script>
 
 {{ "<!-- jquary ui -->" | safeHTML }}
-<script src="{{ `plugins/jquery/jquery-ui.js`| relLangURL }}"></script>
+<script src="{{ `plugins/jquery/jquery-ui.js`| relURL }}"></script>
 
 {{ "<!-- Bootstrap JS -->" | safeHTML }}
-<script src="{{ `plugins/bootstrap/bootstrap.min.js` | relLangURL }}"></script>
+<script src="{{ `plugins/bootstrap/bootstrap.min.js` | relURL }}"></script>
 
 {{ "<!-- match-height JS -->" | safeHTML }}
-<script src="{{ `plugins/match-height/jquery.matchHeight-min.js` | relLangURL }}"></script>
+<script src="{{ `plugins/match-height/jquery.matchHeight-min.js` | relURL }}"></script>
 
 {{ template "_internal/google_analytics.html" . }}
   
@@ -67,11 +67,11 @@
 {{ $image_path_local :=  printf "static/%s" $image_path }}
 {{ $image_ext := trim (path.Ext $image_path | lower) "." }}
 {{ if fileExists $image_path_local }}
-  <meta property="og:image" content="{{ $image_path | relLangURL }}" />
+  <meta property="og:image" content="{{ $image_path | relURL }}" />
   {{ if ne $image_ext "svg" }}
     {{ with (imageConfig $image_path_local) }}
     {{ if (and (gt .Width 144) (gt .Height 144)) }}
-      <meta name="twitter:image" content="{{ $image_path | relLangURL }}"/>
+      <meta name="twitter:image" content="{{ $image_path | relURL }}"/>
       <meta name="twitter:card" content="summary{{ if (and (gt .Width 300) (gt .Height 157) (not (eq .Width .Height))) }}_large_image{{ end }}">
     {{ end }}
     <meta property="og:image:width" content="{{ .Width }}">
