@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 # provide your domain here
-baseURL = "https://ktern.com/documentation"
+baseURL = "/docs"
 # theme
 theme = "dot-hugo"
 # site title
