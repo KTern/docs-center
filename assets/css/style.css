@@ -181,7 +181,7 @@ select:focus {
 
 .section {
   padding-top: 80px;
-  padding-bottom: 80px;
+  padding-bottom: 60px;
 }
 
 @media (max-width: 768px) {
@@ -888,4 +888,191 @@ pre code::-webkit-scrollbar-thumb {
 
 .code-tabs .nav-tabs .nav-item.active .nav-link {
   color: var(--white-color);
+}
+
+
+.guideCards-heading {
+  margin-bottom: 48px
+}
+
+.guideCards-heading>* {
+  font-size: 28px
+}
+
+.guideCards-cards {
+  display: flex;
+  flex-wrap: wrap
+}
+
+.guideCard {
+  border-radius: 6px;
+  box-shadow: 0 10px 30px 0 rgba(34, 43, 55, 0);
+  margin-bottom: 32px;
+  overflow: hidden;
+  padding: 16px 16px 16px 48px;
+  transition: box-shadow .2s;
+  width: 100%
+}
+
+.guideCard,
+.guideCard>* {
+  position: relative
+}
+
+@media (max-width:767px) {
+  .guideCard {
+    background-color: #fff;
+    box-shadow: 0 2px 4px 0 rgba(34, 43, 55, .15)
+  }
+}
+
+@media (min-width:768px) {
+  .guideCard {
+    background-color: transparent;
+    height: 420px;
+    padding: 32px;
+    width: calc(30% - 0px)
+  }
+
+  .guideCard:nth-child(odd) {
+    margin: 1.5%
+  }
+  .guideCard:nth-child(even) {
+    margin: 1.5%
+  }
+}
+
+.guideCard:before {
+  background-size: cover;
+  content: "";
+  position: absolute;
+  width: 24px;
+  left: 0;
+  bottom: 0;
+  top: 0
+}
+
+@media (min-width:768px) {
+  .guideCard:before {
+    right: 0;
+    width: 100%
+  }
+}
+
+.guideCard:first-child:before {
+  background-image: url(https://luna1.co/294330.png)
+}
+
+@media (min-width:768px) {
+  .guideCard:first-child:before {
+    background-image: url(https://luna1.co/4f75d6.png)
+  }
+}
+
+.guideCard:nth-child(2):before {
+  background-image: url(https://luna1.co/8feb7e.png)
+}
+
+@media (min-width:768px) {
+  .guideCard:nth-child(2):before {
+    background-image: url(https://luna1.co/f6d765.png)
+  }
+}
+
+.guideCard:nth-child(3):before {
+  background-image: url(https://luna1.co/2c8989.png)
+}
+
+@media (min-width:768px) {
+  .guideCard:nth-child(3):before {
+    background-image: url(https://luna1.co/60a4f5.png)
+  }
+}
+
+.guideCard:nth-child(4):before {
+  background-image: url(https://luna1.co/f74757.png);
+  background-position: bottom
+}
+
+@media (min-width:768px) {
+  .guideCard:nth-child(4):before {
+    background-image: url(https://luna1.co/91c10a.png)
+  }
+}
+
+.guideCard:hover {
+  border: 0;
+  box-shadow: 0 10px 30px 0 rgba(34, 43, 55, .15)
+}
+
+.guideCard:hover .guideCard-link-text {
+  opacity: 1
+}
+
+.guideCard:hover .guideCard-link-text:after {
+  transform: translate3d(40%, -46%, 0)
+}
+
+.guideCard-label {
+  color: #848f99;
+  font-size: .75rem;
+  font-weight: 500;
+  letter-spacing: 1px;
+  margin-bottom: 0;
+  text-transform: uppercase
+}
+
+@media (min-width:768px) {
+  .guideCard-label {
+    color: #fff;
+    margin-bottom: 74px
+  }
+}
+
+@media (min-width:768px) {
+  .guideCard-heading {
+    color: #fff
+  }
+}
+
+.guideCard-subheading {
+  display: none
+}
+
+@media (min-width:768px) {
+  .guideCard-subheading {
+    color: #fff;
+    display: block;
+    margin-bottom: 16px
+  }
+}
+
+.guideCard-link-text {
+  display: none
+}
+
+@media (min-width:768px) {
+  .guideCard-link-text {
+    color: #fff;
+    display: block;
+    font-weight: 600;
+    opacity: 0;
+    transition: opacity .2s
+  }
+
+  .guideCard-link-text:after {
+    background-image: url("data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNC40OSAxMC45MyI+PGRlZnM+PHN0eWxlPi5jbHMtMXtmaWxsOiNmZmY7fTwvc3R5bGU+PC9kZWZzPjx0aXRsZT5Bc3NldCAxPC90aXRsZT48ZyBpZD0iTGF5ZXJfMiIgZGF0YS1uYW1lPSJMYXllciAyIj48ZyBpZD0iTGF5ZXJfMS0yIiBkYXRhLW5hbWU9IkxheWVyIDEiPjxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSI5LjkzIDAgOC40MyAxLjMzIDExLjE2IDQuNDYgMCA0LjQ2IDAgNi40NiAxMS4xNiA2LjQ2IDguNDMgOS42IDkuOTMgMTAuOTMgMTQuNDkgNS40NiA5LjkzIDAiLz48L2c+PC9nPjwvc3ZnPg==");
+    background-size: cover;
+    content: "";
+    position: absolute;
+    transition: transform .2s;
+    transform: translate3d(-10%, -46%, 0);
+    top: 50%;
+    height: 10px;
+    width: 14px
+  }
+}
+
+.marginCard {
+  width: calc(30% - 0px)
 }

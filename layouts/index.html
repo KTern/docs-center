@@ -1,42 +1,76 @@
 {{ define "main" }}
 
-  {{ if .Content }}
-  <section class="section text-center pb-0">
-    <div class="container">
+{{ if .Content }}
+<section class="section text-center pb-0">
+  <div class="container">
     {{ .Content }}
+  </div>
+</section>
+{{ end }}
+<!-- {{ "topics" | safeHTML }} -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ i18n "topics_title_2" | safeHTML }}</h2>
+      </div>
+      <div class="guideCards-cards">
+        <a href="https://ktern.com/webinars" class="guideCard css-1kfjk3x-Link" target="_blank">
+          <p class="guideCard-label -label">Webinars</p>
+          <h4 class="guideCard-heading">On-Demand Webinars</h4>
+          <p class="guideCard-subheading">Whether you’re just getting started with the platform, or you’ve been using
+            KTern.AI for some time, there’s always
+            something new to discover and ways to improve!</p>
+        </a>
+        <a href="https://ktern.com/resources" class="guideCard css-1kfjk3x-Link" target="_blank">
+          <p class="guideCard-label -label">Resources</p>
+          <h4 class="guideCard-heading">DXaaS Resources</h4>
+          <p class="guideCard-subheading">Here's a collection of useful resources that will help your IT team make
+            effective, risk-free, and successful
+            SAP-centric Digital Transformations anytime, anywhere.</p>
+        </a>
+        <a href="https://support.ktern.com" class="guideCard css-1kfjk3x-Link" target="_blank">
+          <p class="guideCard-label -label">Community Forum</p>
+          <h4 class="guideCard-heading">Raise Queries</h4>
+          <p class="guideCard-subheading">Connect with champions, customers, and the KTern.AI Customer Success team to
+            ask and answer the questions regarding KTern.AI and SAP Transformations.</p>
+        </a>
+      </div>
     </div>
-  </section>
-  {{ end }}
-  {{ "<!-- topics -->" | safeHTML }}
-  <section class="section">
-    <div class="container">
-      <div class="row justify-content-center">
-        <div class="col-12 text-center">
-          <h2 class="section-title">{{ i18n "topics_title" | safeHTML }}</h2>
-        </div>
-        {{ "<!-- topic-item -->" | safeHTML }}
-        {{ range (where .Site.Pages "Type" "docs") }}
-        <div class="col-lg-4 col-sm-6 mb-4">
+  </div>
+</section>
+<!-- <hr/> -->
+<section class="section">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ i18n "topics_title_1" | safeHTML }}</h2>
+      </div>
+      <!-- {{ "topic-item" | safeHTML }} -->
+
+      <!-- {{ range (where .Site.Pages "Type" "docs") }}
+       
+        <div class="col-lg-4 col-sm-6 mb-4" style="background:linear-gradient(135deg, #fad961 0%,#f76b1c 100%);">
           <a href="{{ .Permalink }}" class="px-4 py-5 bg-white shadow text-center d-block match-height">
             {{ with .Params.icon}}<i class="{{.}} icon text-primary d-block mb-4"></i>{{end}}
             <h3 class="mb-3 mt-0">{{ .Title }}</h3>
             {{with .Params.description}}<p class="mb-0">{{. | markdownify}}</p>{{end}}
           </a>
         </div>
-        {{ end }}
-      </div>
+        {{ end }} -->
     </div>
-  </section>
-  {{ "<!-- /topics -->" | safeHTML }}
+  </div>
+</section>
+<!-- {{ "/topics" | safeHTML }} -->
 
-  {{ if .Site.Params.cta.enable }}
-  {{ with .Site.Params.cta }}
-  {{ "<!-- call to action -->" | safeHTML }}
-  <section>
-    <div class="container">
-      <div class="row">
-        <div class="col-12">
-          <div class="section px-3 bg-white shadow text-center">
+{{ if .Site.Params.cta.enable }}
+{{ with .Site.Params.cta }}
+<!-- {{ "call to action" | safeHTML }} -->
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="section px-3 bg-white shadow text-center">
           <h2 class="mb-4">{{ .title | markdownify }}</h2>
           <p class="mb-4">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
@@ -44,13 +78,12 @@
           <a href="{{ .link | relLangURL }}" class="btn btn-primary">{{ .label }}</a>
           {{ end }}
           {{ end }}
-          </div>
         </div>
       </div>
     </div>
-  </section>
-  {{ "<!-- /call to action -->" | safeHTML }}
-  {{ end }}
-  {{ end }}
+  </div>
+</section>
+{{ end }}
+{{ end }}
 
 {{ end }}
