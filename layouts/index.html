@@ -7,8 +7,124 @@
   </div>
 </section>
 {{ end }}
-<!-- {{ "topics" | safeHTML }} -->
-<section class="section">
+<section class="section"
+  style="background: no-repeat center url(https://storage.googleapis.com/ktern-public-files/website/Backgrounds/homepage_desktop_background.svg); background-size: cover;">
+  <div class="container">
+    <div class="row justify-content-center">
+      <div class="col-12 text-center">
+        <h2 class="section-title">{{ i18n "topics_title_1" | safeHTML }}</h2>
+      </div>
+
+      <div class="card-deck-wrapper p-3">
+        <div class="card-deck">
+
+          <div class="card p-4">
+            <a class="card-block stretched-link text-decoration-none" href>
+              <p class="card-title">
+                <img src="https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/Maps.svg"
+                  width="10%" height="10%" />
+                <span class="card-title px-3 py-2 font-weight-bold guideCard-label -label maps-card"
+                  style="font-size:x-large; color: #111217; text-transform: capitalize;">Digital
+                  Maps</span>
+              </p>
+              <p class="card-text">To comprehensively study an existing SAP System and determine the functional,
+                technical, and business impact of an SAP Digital Transformation.
+              </p>
+              <p class="card-text text-muted text-left" style="border-style: dashed; border-color: #FFAE44;">
+              </p>
+            </a>
+          </div>
+
+          <div class="card p-4">
+            <a class="card-block stretched-link text-decoration-none" href>
+              <p class="card-title">
+                <img src="https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/Projects.svg"
+                  width="10%" height="10%" />
+                <span class="card-title px-3 py-2 font-weight-bold guideCard-label -label projects-card"
+                  style="font-size:x-large; color: #111217; text-transform: capitalize;">Digital
+                  Projects</span>
+              </p>
+              <p class="card-text">To gain ultimate control of your SAP Digital Transformation through a unified
+                cognitive digital workplace which promotes real-time collaboration, rigid governance, and automated
+                sign-offs.
+              </p>
+              <p class="card-text text-muted text-left" style="border-style: dashed; border-color: #1F80FF;">
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+      <div class="card-deck-wrapper p-3">
+        <div class="card-deck">
+          <div class="card p-4">
+            <a class="card-block stretched-link text-decoration-none" href>
+              <p class="card-title">
+                <img src="https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/Process.svg"
+                  width="10%" height="10%" />
+                <span class="card-title px-3 py-2 font-weight-bold guideCard-label -label process-card"
+                  style="font-size:x-large; color: #111217; text-transform: capitalize;">Digital
+                  Process</span>
+              </p>
+              <p class="card-text">
+                To achieve business process control and visibility which enables integrity between business processes
+                and project tasks.
+              </p>
+              <p class="card-text text-muted text-left" style="border-style: dashed; border-color: #5449AB;">
+              </p>
+            </a>
+          </div>
+          <div class="card p-4">
+            <a class="card-block stretched-link text-decoration-none" href>
+              <p class="card-title">
+                <img src="https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/Labs.svg"
+                  width="10%" height="10%" />
+                <span class="card-title px-3 py-2 font-weight-bold guideCard-label -label labs-card"
+                  style="font-size:x-large; color: #111217; text-transform: capitalize;">Digital
+                  Labs</span>
+              </p>
+              <p class="card-text">
+                To automate all aspects of SAP Testing – Test Preparation, Test Execution, Test Documentation, Test
+                Monitoring, Test Sign-off, and end-to-end Test Management
+              </p>
+              <p class="card-text text-muted text-left" style="border-style: dashed; border-color: #49AC4D;">
+              </p>
+            </a>
+          </div>
+          <div class="card p-4">
+            <a class="card-block stretched-link text-decoration-none" href>
+              <p class="card-title">
+                <img src="https://storage.googleapis.com/ktern-public-files/website/Brand%20Elements/Mines.svg"
+                  width="10%" height="10%" />
+                <span class="card-title px-3 py-2 font-weight-bold guideCard-label -label mines-card"
+                  style="font-size:x-large; color: #111217; text-transform: capitalize;">Digital
+                  Labs</span>
+              </p>
+              <p class="card-text">
+                To mine existing business processes, identify areas of potential optimization, and analyze the impact of
+                change on processes and test during each Release
+              </p>
+              <p class="card-text text-muted text-left" style="border-style: dashed; border-color: #9C3C3A;">
+              </p>
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- {{ range (where .Site.Pages "Type" "docs") }}
+       
+        <div class="col-lg-4 col-sm-6 mb-4" style="background:linear-gradient(135deg, #fad961 0%,#f76b1c 100%);">
+          <a href="{{ .Permalink }}" class="px-4 py-5 bg-white shadow text-center d-block match-height">
+            {{ with .Params.icon}}<i class="{{.}} icon text-primary d-block mb-4"></i>{{end}}
+            <h3 class="mb-3 mt-0">{{ .Title }}</h3>
+            {{with .Params.description}}<p class="mb-0">{{. | markdownify}}</p>{{end}}
+          </a>
+        </div>
+        {{ end }} -->
+    </div>
+  </div>
+</section>
+<section class="section"
+  style="background: no-repeat center url(https://storage.googleapis.com/ktern-public-files/website/Backgrounds/hr-gridbg.png); background-size: cover;">
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-12 text-center">
@@ -40,33 +156,12 @@
   </div>
 </section>
 <!-- <hr/> -->
-<section class="section">
-  <div class="container">
-    <div class="row justify-content-center">
-      <div class="col-12 text-center">
-        <h2 class="section-title">{{ i18n "topics_title_1" | safeHTML }}</h2>
-      </div>
-      <!-- {{ "topic-item" | safeHTML }} -->
-
-      <!-- {{ range (where .Site.Pages "Type" "docs") }}
-       
-        <div class="col-lg-4 col-sm-6 mb-4" style="background:linear-gradient(135deg, #fad961 0%,#f76b1c 100%);">
-          <a href="{{ .Permalink }}" class="px-4 py-5 bg-white shadow text-center d-block match-height">
-            {{ with .Params.icon}}<i class="{{.}} icon text-primary d-block mb-4"></i>{{end}}
-            <h3 class="mb-3 mt-0">{{ .Title }}</h3>
-            {{with .Params.description}}<p class="mb-0">{{. | markdownify}}</p>{{end}}
-          </a>
-        </div>
-        {{ end }} -->
-    </div>
-  </div>
-</section>
 <!-- {{ "/topics" | safeHTML }} -->
 
 {{ if .Site.Params.cta.enable }}
 {{ with .Site.Params.cta }}
 <!-- {{ "call to action" | safeHTML }} -->
-<section>
+<!-- <section>
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -82,7 +177,7 @@
       </div>
     </div>
   </div>
-</section>
+</section> -->
 {{ end }}
 {{ end }}
 
