@@ -1,23 +1,112 @@
-{{"<!-- footer -->" | safeHTML }}
-<footer class="section pb-4">
-  <div class="container">
-    <div class="row align-items-center">
-      <div class="col-md-8 text-md-left text-center">
-        <p class="mb-md-0 mb-4">{{ .Site.Params.copyright | markdownify }}</p>
-      </div>
-      <div class="col-md-4 text-md-right text-center">
-        <ul class="list-inline">
-          {{ range .Site.Params.social }}
-          <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="{{ .link | safeURL }}"
-              target="_blank" aria-label="{{ .name }}"><i class="{{ .icon }}"></i></a></li>
-          {{ end }}
+<style>
+  h6 {
+    color: white;
+  }
+
+  a {
+    color: #EAEDF2;
+  }
+</style>
+<footer data-section-id="1" data-category="footers" data-component-id="7fd1b1dd_09_awz" class="pt-4 pb-3"
+  style="background-color: #111217">
+  <div class="container text-center text-lg-left text-white">
+    <div class="row d-flex justify-content-center justify-content-lg-between">
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav1-column">Products</h6>
+        <ul class="list-inline ml-0" data-config-id="nav1-links">
+          <li class="py-1"><a href="#">Digital Maps</a></li>
+          <li class="py-1"><a href="#">Digital Projects</a></li>
+          <li class="py-1"><a href="#">Digital Process</a></li>
+          <li class="py-1"><a href="#">Digital Labs</a></li>
+          <li class="py-1"><a href="#">Digital Mines</a></li>
         </ul>
       </div>
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav2-column">Digital Maps</h6>
+        <ul class="list-inline ml-0" data-config-id="nav2-links">
+          <li class="py-1"><a href="#">Business Process Mining</a></li>
+          <li class="py-1"><a href="#">Landscape Assessment</a></li>
+          <li class="py-1"><a href="#">Transformation Insights</a></li>
+          <li class="py-1"><a href="#">Timeline and Effort Estimation</a></li>
+          <li class="py-1"><a href="#">Custom Code Analysis</a></li>
+        </ul>
+      </div>
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav2-column">Digital Projects</h6>
+        <ul class="list-inline ml-0" data-config-id="nav2-links">
+          <li class="py-1"><a href="#">Digital Workspace</a></li>
+          <li class="py-1"><a href="#">SAP Activate Cockpit</a></li>
+          <li class="py-1"><a href="#">Smart Project Reporting</a></li>
+          <li class="py-1"><a href="#">Digital Signoffs and Workflows</a></li>
+          <li class="py-1"><a href="#">Social Collaboration</a></li>
+        </ul>
+      </div>
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav2-column">Digital Process</h6>
+        <ul class="list-inline ml-0" data-config-id="nav2-links">
+          <li class="py-1"><a href="#">Process Orchestration</a></li>
+          <li class="py-1"><a href="#">SAP Scope Item Cockpit</a></li>
+          <li class="py-1"><a href="#">Custom Process Adaptation</a></li>
+          <li class="py-1"><a href="#">Process Dashboards</a></li>
+          <li class="py-1"><a href="#">Process Modelling</a></li>
+        </ul>
+      </div>
+      <!-- <div class="w-100 border-top my-3"></div> -->
+    </div>
+    <div class="pt-5 row d-flex justify-content-center justify-content-lg-between">
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav1-column">Digital Labs</h6>
+        <ul class="list-inline ml-0" data-config-id="nav1-links">
+          <li class="py-1"><a href="#">Test Repository</a></li>
+          <li class="py-1"><a href="#">Test Reporting</a></li>
+          <li class="py-1"><a href="#">Test Scripts and Evidences</a></li>
+          <li class="py-1"><a href="#">Test Scenario Recommendations</a></li>
+          <li class="py-1"><a href="#">UAT Signoffs</a></li>
+        </ul>
+      </div>
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav2-column">Digital Mines</h6>
+        <ul class="list-inline ml-0" data-config-id="nav2-links">
+          <li class="py-1"><a href="#">Change Impact Mining</a></li>
+          <li class="py-1"><a href="#">Change Impact Orchestration</a></li>
+          <li class="py-1"><a href="#">Release Impact Analytics</a></li>
+          <li class="py-1"><a href="#">Process Impact</a></li>
+          <li class="py-1"><a href="#">Test Fits and Gaps</a></li>
+        </ul>
+      </div>
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav2-column">Resources</h6>
+        <ul class="list-inline ml-0" data-config-id="nav2-links">
+          <li class="py-1"><a href="#">Resource Center</a></li>
+          <li class="py-1"><a href="#">Webinars</a></li>
+          <li class="py-1"><a href="#">Articles</a></li>
+          <li class="py-1"><a href="#">Pricing</a></li>
+          <li class="py-1"><a href="#">Cloud Status</a></li>
+        </ul>
+      </div>
+      <div class="col-10 col-sm-5 col-lg-3 my-2 my-lg-0">
+        <h6 data-config-id="nav2-column">Company</h6>
+        <ul class="list-inline ml-0" data-config-id="nav2-links">
+          <li class="py-1"><a href="#">About</a></li>
+          <li class="py-1"><a href="#">News Center</a></li>
+          <li class="py-1"><a href="#">Trust Center</a></li>
+          <li class="py-1"><a href="#">Contact</a></li>
+          <li class="py-1"><a href="#">Support Center</a></li>
+        </ul>
+      </div>
+      <div class="w-100 border-top my-3"></div>
+    </div>
+    <div class="row flex-column flex-sm-row align-items-center justify-content-sm-between">
+      <ul class="list-inline">
+        {{ range .Site.Params.social }}
+        <li class="list-inline-item"><a class="text-color d-inline-block p-2" href="{{ .link | safeURL }}"
+            target="_blank" aria-label="{{ .name }}"><i class="{{ .icon }}"></i></a></li>
+        {{ end }}
+      </ul>
+      <p class="mb-md-0 mb-4">{{ .Site.Params.copyright | markdownify }}</p>
     </div>
   </div>
 </footer>
-{{"<!-- /footer -->" | safeHTML }}
 
-{{"<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify}}
 <script src="{{ $script.Permalink }}"></script>

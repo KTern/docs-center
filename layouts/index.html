@@ -161,13 +161,13 @@
 {{ if .Site.Params.cta.enable }}
 {{ with .Site.Params.cta }}
 <!-- {{ "call to action" | safeHTML }} -->
-<!-- <section>
+<section class="cta-gradient">
   <div class="container">
     <div class="row">
       <div class="col-12">
-        <div class="section px-3 bg-white shadow text-center">
-          <h2 class="mb-4">{{ .title | markdownify }}</h2>
-          <p class="mb-4">{{ .content | markdownify }}</p>
+        <div class="section px-3 bg-transparent shadow text-center">
+          <h2 class="mb-4" style="color: white;">{{ .title | markdownify }}</h2>
+          <p class="mb-4" style="color: white;">{{ .content | markdownify }}</p>
           {{ if .button.enable }}
           {{ with .button }}
           <a href="{{ .link | relLangURL }}" class="btn btn-primary">{{ .label }}</a>
@@ -177,7 +177,7 @@
       </div>
     </div>
   </div>
-</section> -->
+</section>
 {{ end }}
 {{ end }}
 
