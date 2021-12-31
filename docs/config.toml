@@ -78,9 +78,9 @@ copyright = "Copyright &copy; 2021 [KTern.AI](https://ktern.com/) All rights res
 # banner
 [Languages.en.params.banner]
 title = "KTern.AI Documentation Center"
-subtitle = "Find advice and answers from our support team fast or get in touch"
+subtitle = "Find the comprehensive documentation, guides, and resources to use KTern.AI DXaaS Platform for governing your SAP Transformations."
 bg_image = "https://storage.googleapis.com/ktern-public-files/website/Backgrounds/banner.png"
-placeholder = "Have a question? Just ask here or enter terms"
+placeholder = "Filter to find guides for KTern.AI products and services."
 
 # call to action
 [Languages.en.params.cta]

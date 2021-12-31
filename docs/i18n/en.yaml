@@ -1,5 +1,9 @@
-- id: topics_title
-  translation: Find your answer by subject
+- id: topics_title_1
+  translation: Explore documentations by Digital Streams
   
 - id: send
   translation: Send
+
+- id: topics_title_2
+  translation: Top resources to get started with KTern.AI
+  
