@@ -85,8 +85,8 @@ placeholder = "Filter to find guides for KTern.AI products and services."
 # call to action
 [Languages.en.params.cta]
 enable = true
-title = "Didn't find an answer to your question?"
-content = "Musce libero nunc, dignissim quis turpis quis, semper vehicula dolor. Suspendisse tincidunt consequat quam."
+title = "Get started on your automation journey"
+content = "Talk to a KTern.AI expert and see how you can get started."
 # call to action button
 [Languages.en.params.cta.button]
 enable = true
