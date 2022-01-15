@@ -91,7 +91,7 @@ content = "Talk to a KTern.AI expert and see how you can get started."
 [Languages.en.params.cta.button]
 enable = true
 label = "contact us"
-link = "contact"
+link = "https://ktern.com/contact"
 
 
 ################## english navigation #################
@@ -102,12 +102,12 @@ weight = 1
 
 [[Languages.en.menu.main]]
 name = "Faq"
-url = "faq"
+url = "faq/"
 weight = 2
 
 [[Languages.en.menu.main]]
 name = "contact"
-url = "contact"
+url = "contact/"
 weight = 3
 
 # Dropdown menu
@@ -119,19 +119,19 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "Installation"
-  url = "installation"
+  url = "installation/"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "Billing and Pricing"
-  url = "billing-pricing"
+  url = "billing-pricing/"
   weight = 2
 
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "Features"
-  url = "features"
+  url = "features/"
   weight = 3
 
 
