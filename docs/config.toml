@@ -4,7 +4,7 @@ baseURL = "http://localhost:1313/documentation/"
 # theme
 theme = "dot-hugo"
 # site title
-title = "KTern.AI Documentation Portal"
+title = "Docs"
 # disable language
 disableLanguages = []
 # google analytics
