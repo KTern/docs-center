@@ -1084,6 +1084,12 @@ pre code::-webkit-scrollbar-thumb {
   -webkit-text-fill-color: transparent;
 }
 
+.dxaas-card {
+  background:-webkit-linear-gradient(135deg, #BFDCED 0%, #1B465F 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .projects-card {
     background:-webkit-linear-gradient(135deg, #13f1fc 0%, #0470dc 100%);
     -webkit-background-clip: text;

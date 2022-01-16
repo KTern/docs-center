@@ -96,43 +96,78 @@ link = "https://ktern.com/contact"
 
 ################## english navigation #################
 [[Languages.en.menu.main]]
-name = "Home"
-url = "/"
+name = "ktern.com"
+url = "https://ktern.com/"
 weight = 1
 
 [[Languages.en.menu.main]]
-name = "Faq"
-url = "faq/"
+name = "Products"
+url = "https://ktern.com/features/"
 weight = 2
 
 [[Languages.en.menu.main]]
-name = "contact"
-url = "contact/"
+name = "Resources"
+url = "https://ktern.com/resources/"
 weight = 3
+
+[[Languages.en.menu.main]]
+name = "Partners"
+url = "https://ktern.com/partners/"
+weight = 4
+
+
+[[Languages.en.menu.main]]
+name = "Support"
+url = "https://support.ktern.com/"
+weight = 5
+
+[[Languages.en.menu.main]]
+name = "Company"
+url = "https://ktern.com/about-company/"
+weight = 6
 
 # Dropdown menu
 [[Languages.en.menu.main]]
-weight = 4
+weight = 7
 name = "docs"
 hasChildren = true
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Installation"
-  url = "installation/"
+  name = "Get started"
+  url = "get-started/"
   weight = 1
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Billing and Pricing"
-  url = "billing-pricing/"
+  name = "Digital Maps"
+  url = "digital-maps/"
   weight = 2
 
   [[Languages.en.menu.main]]
   parent = "docs"
-  name = "Features"
-  url = "features/"
+  name = "Digital Projects"
+  url = "digital-projects/"
   weight = 3
+  
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Digital Process"
+  url = "digital-process/"
+  weight = 4
+  
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Digital Labs"
+  url = "digital-labs/"
+  weight = 5
+  
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Integrations Guide"
+  url = "integrations-guide/"
+  weight = 5
+  
 
 
 ################################### Franch Language ######################
