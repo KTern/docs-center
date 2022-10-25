@@ -9,6 +9,8 @@ type : "docs"
 
 KTern’s Digital Maps connects to an ECC system and assess the entire landscape, thus enabling you to better understand the implications of a transition from existing ERP system to SAP S/4HANA. Digital Maps has five sub-parts:
 
+
+
 1. Landscape Assessment
 2. Business Process Assessment
 3. Custom Objects Assessment
