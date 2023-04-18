@@ -8,6 +8,7 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
+### Digital Maps - Timeline Assessment
 
 The SAP S/4HANA assessment report enables you to understand the implications of the transition from an existing SAP ERP system to S/4HANA. The Roadmap Guide module of KTern provides an automated high-level roadmap of the SAP S/4HANA system conversion process. The Solution Architects and the Project Managers can then validate the roadmap and proceed with the system conversion project.
 
