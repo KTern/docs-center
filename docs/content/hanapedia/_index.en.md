@@ -1,5 +1,5 @@
 ---
-title: "HANAPEDIA - an Overview"
+title: "HANAPEDIA - Overview"
 date: 2023-04-19T11:56:05+06:00
 icon: "ti-panel"
 lastmod: 2021-01-15T11:02:05+06:00
@@ -9,6 +9,7 @@ description: "HANAPEDIA is tailor-made for the SAP community and behaves as an o
 type : "docs"
 ---
 
+Do you want a search engine for exploring things present under your project! You just have to hover here and search by its title or content, where you will be provided with automatic recommended list of files. Are you in need of full access to view things under your project with less time consumption, here you go and achieve your team's success.
 
 ## HANAPEDIA - an Introduction
 <ul>
