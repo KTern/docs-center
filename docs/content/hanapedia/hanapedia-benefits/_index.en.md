@@ -1,6 +1,6 @@
 
 ---
-title: "HANAPEDIA - Benefits"
+title: "Benefits of HANAPEDIA"
 date: 2023-04-19T11:56:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
 weight: 2
@@ -9,7 +9,6 @@ description: "HANAPEDIA is tailor-made for the SAP community and behaves as an o
 type : "docs"
 ---
 
-## Benefits of HANAPEDIA 
 <ul>
    <li>
       Auto-recommendations of assets and discussions based on the search query.
