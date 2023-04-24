@@ -11,20 +11,12 @@ type : "docs"
 
 ## Overview
 
-Do you want a search engine for exploring things present under your project! You just have to hover here and have the facility search by choosing either by title or content, where you will be provided with automatic recommended list of files. Are you in need of full access to view things under your project with less time consumption, here you go and achieve your team's success.
+HANAPEDIA is an exclusive search engine for the SAP community, which is using KTern.AI. Just a single click away from identifying your auto recommended assets. Complete access to view, upload and download assets under your project in a quick period. HANAPEDIA can serve as a digitized knowledge base engine for your organization, resulting in increased productivity.
 
 ## Introduction
-<ul>
-   <li>
-      During the SAP transformation journey, HANAPEDIA helps the stakeholders in searching, viewing and governing various assets or documents that are involved in the project. 
-   </li>
-   <li>
-      The knowledge and experience of the SAP environment, along with KTern.AI's data is digitized into an intelligent knowledge base engine called <b>"HANAPEDIA"</b>. 
-   </li>
-   <li>
-      In HANAPEDIA, searching can be done by titles and contents.
-   </li>
-   <li>
-      HANAPEDIA is tailor-made for the SAP community and behaves as an organization’s knowledge-based repository to surf for any previously used SAP assets, issue reference, process plan, etc., Eg: Templates, Reports, Plan, Agenda, Reusable code base.
-   </li>
-</ul>
+
+During the SAP transformation journey, KTern.AI as a DXaaS platform helps SAP customers and system integrators by governing and speeding up various processes that are involved. HANAPEDIA helps the stakeholders in searching, viewing and governing various assets or documents that are involved in the project. The knowledge and experience of the SAP environment, along with KTern.AI's data are digitized into an intelligent knowledge base engine called "HANAPEDIA". 
+
+![HANAPEDIA Home Page](https://storage.googleapis.com/ktern-public-files/product-documentation/hanapedia-home-page.png)
+
+HANAPEDIA searches the contents of the assets to give accurate search results. HANAPEDIA is tailor-made for the SAP community and behaves as an organization’s knowledge-based repository to search for any previously used SAP assets. E.g., Templates, Reports, Plans, Agendas and Reusable code bases.
