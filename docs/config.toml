@@ -165,7 +165,7 @@ hasChildren = true
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "HANAPEDIA"
-  url = "integrations-guide/"
+  url = "hana-pedia/"
   weight = 6
 
   [[Languages.en.menu.main]]
