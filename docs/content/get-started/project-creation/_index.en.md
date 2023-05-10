@@ -9,7 +9,7 @@ keywords: ["induct", "instate"]
 ---
 
 
-### Before you begin
+### Before you begin --
 
 You should be a KTern.AI administrator (i.e. someone with the Administer global permission). Many of the tasks involved can only be performed by a KTern.AI administrator, such as creating a project, modifying a workflow, etc. 
 
