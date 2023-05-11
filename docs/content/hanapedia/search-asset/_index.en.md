@@ -31,6 +31,7 @@ result rage which consists of list of assets based on the relevancy score as  di
 
 <ol>
 <li> The search bar (1) will be visible with the searched query.</li>
-<li> You can preview the the count of total no: of assets (2) which are relevant to your search <li>
+<li> You can preview the the count of total no: of assets (2) which are relevant to your search 
+</li>
 <li> The Recent Searches (3) will help you to discover the recent trends of assets. </li>
 </ol>
