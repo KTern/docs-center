@@ -56,7 +56,7 @@ As shown in the below image, the items are deleted.
 
 ![clone-create-selectitems-remove-items](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-selectitems-remove-items.png)
 
-#### ii. Click Link Item B***
+#### ii. Click Link Item B
    
 Choose any of the work items as done for linking the Item A.
 
