@@ -30,13 +30,13 @@ Choose relation [Eg: Assigned to me, Created by me, Involved as participant]. Us
 
 #### ii. Filters:
 
-##### i. View or Hide filters:
+##### 1. View or Hide filters:
 
 [Filters: Status, Phase, Workpackage and Assigned To]. Under the filters, you could choose the filters you need and leave the unwanted ones as such. By default, the status filter will be “New and Active,” and the concerned items will be listed.
 
 ![3-my-workspace-tasks-view-hide-filter](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/3-my-workspace-tasks-view-hide-filter.png)
 
-##### ii. Time frame:
+##### 2. Time frame:
 
 [Today, Tomorrow, This Week, This Month]. All the work items coming under the above respective filter can be viewed, if they are chosen.
 
@@ -50,13 +50,13 @@ It is based on whether tomorrow’s date (April 23, 2023) comes within the durat
 
 Based on the above two use cases, it’s obvious that the user is having the advantage of applying two unique filters with respect to the allotted period.
 
-##### iii. View/Hide Chart:
+##### 3. View/Hide Chart:
 
 The analytical chart gives users an overview of their progress and the overdue ones, based on the filters applied.
 
 ![6-my-workspace-tasks-view-hide-chart](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/6-my-workspace-tasks-view-hide-chart.png)
 
-##### iv. Bulk Updating:
+##### 4. Bulk Updating:
 
 Check boxes are used for bulk editing. You could also search the work items by their title using the highlighted search bar.
 
@@ -70,7 +70,7 @@ Bulk Update icon - After choosing the check boxes, click the bulk update icon. T
 
 ![10-my-workspace-tasks-bulk-updating4](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/10-my-workspace-tasks-bulk-updating4.png)
 
-##### v. Inline Editing:
+##### 5. Inline Editing:
 
 To quickly update the status of tasks in KTern, users can use the inline editing feature instead of clicking on the ⓘ icon. This feature allows users to click the status of a task and directly change it to one of the available options: New, Active, Completed, or Approved. 
 
@@ -104,7 +104,7 @@ Signoffs allows users to manage and track approvals, ensuring that necessary sta
 
 The Levels of Approvers feature streamlines the approval process and involves all necessary stakeholders, thus helping the teams to manage their approval processes more. To make changes to a signoff item, click the 'i' icon located next to the item. This will open a form-like tab, as shown in the image below.
 
-![16-my-workspace-signoffs-list-of-approvers](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/16-my-workspace-signoffs-list of approvers.png)
+![16-my-workspace-signoffs-list-of-approvers](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/16-my-workspace-signoffs-list%20of%20approvers.png)
 
 As shown in the image below, the Levels of Approvers feature in KTern allows the next level of approver to approve only after the Level 1 approver has completed their approval.
 

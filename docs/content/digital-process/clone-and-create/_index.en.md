@@ -18,9 +18,9 @@ The main use of “clone and create” is to create process activities by linkin
 
 In the Project Hub, the user should get into the Clone and Create page. Here, the user must follow three major steps to create the process activities namely:
 
-   1.	Select Items
-   2.	Select Simulation Template
-   3.	Update Simulated Items
+   **1.**	Select Items
+   **2.**	Select Simulation Template
+   **3.**	Update Simulated Items
 
 ### STEP 1: Select Items
 
@@ -28,11 +28,11 @@ In the Project Hub, the user should get into the Clone and Create page. Here, th
    
 Choose any of the work items as below:
 
-   a.	If the work item is “Project plan”, then it can be mapped to any one of the work items like: Phase, Work Package, Task L1, Task L2, Task L3, and Task L4.
+   **a.**	If the work item is “Project plan”, then it can be mapped to any one of the work items like: Phase, Work Package, Task L1, Task L2, Task L3, and Task L4.
 
-   b.	If the work item is “Backlog”, then it can be mapped to a work item called: User Story.
+   **b.**	If the work item is “Backlog”, then it can be mapped to a work item called: User Story.
 
-   c.	If the work item is “Global Scope Item”, then it can be mapped to any one of the work items like: Line Of Business, Process Group, Scope Item, Scope Item Variant and Process Step.
+   **c.**	If the work item is “Global Scope Item”, then it can be mapped to any one of the work items like: Line Of Business, Process Group, Scope Item, Scope Item Variant and Process Step.
 
 ![clone-create-selectitems-deselct-items](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-selectitems-deselct-items.png)    
          
@@ -94,16 +94,16 @@ As shown in the below image, if a user could view the newly created template nam
 
 ### STEP 3: Update Simulated Items
 
-![clone-create-update-simulated-items](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update simulated items.png)
+![clone-create-update-simulated-items](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update%20simulated%20items.png)
 
 Once after choosing the template, this screen will be visible, where there’ll be list of tasks in which project plan and process are been cloned. KTern provides a benefit with “Quick Fill” option, where the user could fill the following columns in a single click: Parent Name, Assign To, Planned From, Planned To.
 
-![clone-create-update-simulated-items-quickfill](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update simulated items-quickfill.png)
+![clone-create-update-simulated-items-quickfill](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update%20simulated%20items-quickfill.png)
 
 Post filling the four boxes of quick fill, all those data will be auto filled in all the rows of the chosen parent task. 
 
-![clone-create-update-simulated-items-saving](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update simulated items-saving.png)
+![clone-create-update-simulated-items-saving](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update%20simulated%20items-saving.png)
 
 Once the process activities are created under the task, a pop up message will be coming that “Simulated Items saved successfully”. 
 
-![clone-create-update-simulated-items-submit](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update simulated items-submit.png)
+![clone-create-update-simulated-items-submit](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update%20simulated%20items-submit.png)
