@@ -9,6 +9,7 @@ description: "HANAPEDIA is tailor-made for the SAP community and behaves as an o
 type : "docs"
 ---
 
+## To search an asset from HANAPEDIA, follow the below menitoned steps:
 #### Step 1:
 Search your asset by selecting the title/content **(1)** based on your need.
 
