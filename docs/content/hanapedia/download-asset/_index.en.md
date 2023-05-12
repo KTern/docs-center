@@ -9,7 +9,7 @@ description: "HANAPEDIA is tailor-made for the SAP community and behaves as an o
 type : "docs"
 ---
 
-### To downlaod the asset, follow the below mentioned steps:
+### To download the asset, follow the below mentioned steps:
 #### Step 1:
 Click on the download icon as (highlighted in below image).
 #### Step 2:
