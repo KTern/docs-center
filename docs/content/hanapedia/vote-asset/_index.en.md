@@ -9,7 +9,7 @@ description: "HANAPEDIA is tailor-made for the SAP community and behaves as an o
 type : "docs"
 ---
 
-### To vote the asset, follow the below mentioned steps:
+### To vote an asset, follow the below mentioned steps:
 #### Step 1:
 If the asset is helpful, click on like icon button (highlighted in the below image) and gradually the count of the vote will increase which will also increase in the relevancy score for the asset.
 
