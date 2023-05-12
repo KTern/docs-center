@@ -1,5 +1,5 @@
 ---
-title: "Search Asset"
+title: "Preview Asset"
 date: 2023-05-11T16:34:05+06:00
 icon: "ti-panel"
 lastmod: 2021-01-15T11:02:05+06:00
