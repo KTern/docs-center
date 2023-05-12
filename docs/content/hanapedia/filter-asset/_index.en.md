@@ -9,7 +9,7 @@ description: "HANAPEDIA is tailor-made for the SAP community and behaves as an o
 type : "docs"
 ---
 
-### To filter the relevant steps, follow the below menitoned steps:
+### To filter the relevant asset, follow the below menitoned steps:
 #### Step 1:
 You can filter the assets based on category **(1)** like Asset type, Project, Module
 and Document type which will help you to filter out the relevant asset from total no: of
