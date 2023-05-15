@@ -50,7 +50,7 @@ If only certain items are needed to be brought in, then deselect the check boxes
 
 After deselecting the respective items in the selected list, the user can remove the items by clicking the delete icon. As in the below image, if all the items are required to be removed,  click “Select All icon” and press the delete icon.
 
-![clone-create-selectitems-post-deselection](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-selectitems-deselection.png)
+![clone-create-selectitems-post-deselection](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-selectitems-post-deselection.png)
 
 As shown in the below image, the items are deleted.
 
