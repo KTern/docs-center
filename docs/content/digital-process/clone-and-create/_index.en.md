@@ -18,9 +18,9 @@ The main use of “clone and create” is to create process activities by linkin
 
 In the Project Hub, the user should get into the Clone and Create page. Here, the user must follow three major steps to create the process activities namely:
 
-   **1.**	Select Items
-   **2.**	Select Simulation Template
-   **3.**	Update Simulated Items
+1.	Select Items
+2.	Select Simulation Template
+3.	Update Simulated Items
 
 ### STEP 1: Select Items
 
@@ -28,11 +28,11 @@ In the Project Hub, the user should get into the Clone and Create page. Here, th
    
 Choose any of the work items as below:
 
-   **a.**	If the work item is “Project plan”, then it can be mapped to any one of the work items like: Phase, Work Package, Task L1, Task L2, Task L3, and Task L4.
+   a.	If the work item is “Project plan”, then it can be mapped to any one of the work items like: Phase, Work Package, Task L1, Task L2, Task L3, and Task L4.
 
-   **b.**	If the work item is “Backlog”, then it can be mapped to a work item called: User Story.
+   b.	If the work item is “Backlog”, then it can be mapped to a work item called: User Story.
 
-   **c.**	If the work item is “Global Scope Item”, then it can be mapped to any one of the work items like: Line Of Business, Process Group, Scope Item, Scope Item Variant and Process Step.
+   c.	If the work item is “Global Scope Item”, then it can be mapped to any one of the work items like: Line Of Business, Process Group, Scope Item, Scope Item Variant and Process Step.
 
 ![clone-create-selectitems-deselct-items](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-selectitems-deselct-items.png)    
          
