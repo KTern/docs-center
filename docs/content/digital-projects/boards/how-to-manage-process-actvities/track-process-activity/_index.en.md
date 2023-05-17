@@ -11,4 +11,4 @@ keywords: ["induct", "instate"]
  ![manage-process-actvities-boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/track-process-activity.png)
 
 ii)	To find any specific process activity, you can search it in the search bar **(highlighted in below image)**. with the help of (WBS / title of process). You can also update the status of activity by clicking on the drop down **(as appeared in below image)**
- ![manage-process-actvities-boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/track-status-update-completed.png)
+ ![manage-process-actvities-boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/tatus-update-completed.png)
