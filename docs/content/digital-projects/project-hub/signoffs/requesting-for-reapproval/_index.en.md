@@ -28,4 +28,4 @@ keywords: ["induct", "instate"]
 
    ![23-signoff-item-request-for-approval3](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/23-signoff-item-request-for-approval3.png)
 
-   ![24-signoff-item-request-for-approval4](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/23-signoff-item-request-for-approval4.png)
+   ![24-signoff-item-request-for-approval4](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/24-signoff-item-request-for-approval4.png)
