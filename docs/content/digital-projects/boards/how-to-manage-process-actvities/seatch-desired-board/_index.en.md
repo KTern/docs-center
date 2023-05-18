@@ -1,6 +1,6 @@
 ---
 title: "Search your desired board"
-date: 2021-01-15T11:02:05+06:00
+date: 2023-05-18T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
 weight: 21
 draft: false
@@ -12,9 +12,9 @@ keywords: ["induct", "instate"]
  <li>Let’s consider an example, you wish to view the boards which comes under “Manufacturing” GSI. To search for and find your preferred board, use the steps listed below</li>
  </ul>
 
- Click on Boards **(1)** -> Active Boards **(2)**.You will be able to view the boards being shown **(as shown in the image below)**. 
+ i) Click on Boards **(1)** -> Active Boards **(2)**.You will be able to view the boards being shown **(as shown in the image below)**. 
 
 ![manage-process-actvities-boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/active-boards-1.png)
 
-As soon as you type **"Manufacturing"** in the search bar **(1)**, all the boards related to manufacturing filtered out. In our case it’s "Finance Core Configuration and Documentation Signoff - Manufacturing" **(as displayed in the image below)**.
+ii) As soon as you type **"Manufacturing"** in the search bar **(1)**, all the boards related to manufacturing filtered out. In our case it’s "Finance Core Configuration and Documentation Signoff - Manufacturing" **(as displayed in the image below)**.
 ![manage-process-actvities-boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/search-bar.png)
