@@ -1,5 +1,5 @@
 ---
-title: "Navigating to different icons on the Signoff page"
+title: "Filter and other quick actions"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
 weight: 19

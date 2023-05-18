@@ -19,9 +19,13 @@ keywords: ["induct", "instate"]
 
    ![21-signoff-item-request-for-approval1](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/21-signoff-item-request-for-approval1.png)
 
+   ![22-signoff-item-request-for-approval2](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/22-signoff-item-request-for-approval2.png)
+
    <li>
    Enter the reason for the re-approval request and submit it. The approval status of the respective users will be re-tracked, and they will be notified of the new request. 
    </li>
 </ul>
 
-   ![22-signoff-item-request-for-approval2](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/22-signoff-item-request-for-approval2.png)
+   ![23-signoff-item-request-for-approval3](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/23-signoff-item-request-for-approval3.png)
+
+   ![24-signoff-item-request-for-approval4](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/23-signoff-item-request-for-approval4.png)

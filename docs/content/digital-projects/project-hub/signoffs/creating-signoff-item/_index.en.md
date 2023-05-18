@@ -10,11 +10,11 @@ keywords: ["induct", "instate"]
 
 Here are the steps you can follow to **create signoff item** using KTern:
 
-**a. Click on the "Add Signoff" button.**
+**Step 1: Click on the "Add Signoff" button.**
 
 ![5-signoff-item-creation-1](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/5-signoff-item-creation-1.png)
 
-**b. This will open a drawer where you can specify the details of the signoff as mentioned below:**
+**Step 2: This will open a drawer where you can specify the details of the signoff as mentioned below:**
 
 #### i. Overview: 
 
@@ -84,9 +84,9 @@ In the Stakeholders tab, you will find the following fields:
    <ul>
       <li>
       For example, let's consider a signoff with the following approval levels: 
-         -> Level 1 – User 1, 
-         -> Level 2 – User 2, User 3 
-         -> Level 3 – User 4
+         (i). Level 1 – User 1, 
+         (ii). Level 2 – User 2, User 3 
+         (iii). Level 3 – User 4
       </li>
       <li>
       In the given example, "User 1" would be the first approver of the signoff. Once "User 1" approves the signoff, KTern will request the next level users for their approval.
@@ -123,10 +123,10 @@ In the files section, you can upload documents related to the signoff item. Appr
 
 ![12-signoff-item-creation-8](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/12-signoff-item-creation-8.png)
 
-**c. After providing the required information mentioned above, click on the 'Create' button to successfully create a signoff item.**
+**Step 3: After providing the required information mentioned above, click on the 'Create' button to successfully create a signoff item.**
 
 ![13-signoff-item-creation-9](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/13-signoff-item-creation-9.png)
 
-**d. It will now be visible on the process page and can be tracked and managed from there.**
+**Step 4: It will now be visible on the process page and can be tracked and managed from there.**
 
 ![14-signoff-item-process-page](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/14-signoff-item-process-page.png)

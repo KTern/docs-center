@@ -12,7 +12,7 @@ Here are the steps you can follow to **create signoff group** using KTern:
 
 a. To create a signoff item, it is necessary to have at least one existing signoff group. You have the option to assign the signoff item to either a newly created signoff group or an existing one.
 
-b.	To create a new signoff group, click on the signoff section of your project, and then click the “+” icon to add a new group. You can then customize the group's name and add the relevant stakeholders who will be responsible for reviewing and approving the signoff.
+b.	To create a new signoff group, click on the signoff section of your project, and then click the “+” icon to add a new group. 
 
 ![3-signoff-group1](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/3-signoff-group1.png)
 
