@@ -1,6 +1,6 @@
 ---
 title: "How to manage process activites using boards ?"
-date: 2021-01-15T11:02:05+06:00
+date: 2023-05-17T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
 weight: 1
 draft: false
