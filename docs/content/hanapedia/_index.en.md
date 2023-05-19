@@ -19,10 +19,6 @@ During the SAP transformation journey, KTern.AI as a DXaaS platform helps SAP cu
 
 ![HANAPEDIA Home Page](https://storage.googleapis.com/ktern-public-files/product-documentation/hanapedia-home-page.png)
 
-<<<<<<< HEAD
 HANAPEDIA searches the contents of the assets to give accurate search results. HANAPEDIA is tailor-made for the SAP community and behaves as an organization’s knowledge-based repository to search for any previously used SAP assets. 
 E.g., Templates, Reports, Plans, Agendas and Reusable code bases.
 
-=======
-HANAPEDIA searches the contents of the assets to give accurate search results. HANAPEDIA is tailor-made for the SAP community and behaves as an organization’s knowledge-based repository to search for any previously used SAP assets. E.g., Templates, Reports, Plans, Agendas and Reusable code bases.
->>>>>>> origin/development

@@ -5,7 +5,7 @@ lastmod: 2021-01-15T11:02:05+06:00
 weight: 2
 draft: false
 description: "HANAPEDIA is tailor-made for the SAP community and behaves as an organization’s knowledge-based repository to surf for any previously used SAP assets, issue reference, process plan, etc., Eg: Templates, Reports, Plan, Agenda, Reusable code base, etc."
-type: "docs"
+type : "docs"
 ---
 
 <ul>
