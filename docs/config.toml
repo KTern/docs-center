@@ -172,7 +172,7 @@ hasChildren = true
   parent = "docs"
   name = "Integrations Guide"
   url = "integrations-guide/"
-  weight = 7
+  weight = 5
   
 
 

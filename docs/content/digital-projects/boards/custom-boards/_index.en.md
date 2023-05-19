@@ -1,0 +1,88 @@
+---
+title: "Custom Boards"
+date: 2023-04-19T11:56:05+06:00
+icon: "ti-panel"
+lastmod: 2021-01-15T11:02:05+06:00
+weight: 2
+draft: false
+description: "Custom Boards facilitate the creation of personalized Boards with customized activities, which can be tailored to meet the specific requirements of the user.Custom Boards allow the creation of individual tasks independently, without the need for integration with the project plan. "
+type : "docs"
+---
+Custom Boards facilitate the creation of personalized Boards with customized activities, which can be tailored to meet the specific requirements of the user. Custom Boards allow the creation of individual tasks independently, without the need for integration with the project plan.
+
+## How to create Custom Boards?
+
+The steps below outline the steps for creating "custom Boards" and tasks:
+
+1. Click on the “hamburger icon” located at the top left corner.
+
+![Click.on.Hamburger.icon](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1_Click_On_Hamburger_Icon.png
+)
+
+2.	Select “transformation hub” from the navigation bar.
+
+![Click.on.Transformation.hub](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/2_Click_On_Transformation_Hub.png
+)
+
+3.	From the Dropdown, click on Boards.
+
+![Click.on.Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3_Click_on_Boards.png
+)
+
+4.	Upon clicking you will be directed to the Digital Boards page. Now on the right, click on Custom Boards.
+
+![Click.on.custom.boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4_Click_On_Custom_Boards.png
+)
+
+5.	Upon clicking you will be directed to the Custom Boards page in Digital Boards. Click on the "+” icon to create new Boards.
+
+![click.on.plus.icon](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/5_Click_On_Plus_Icon.png
+)
+
+6.	A “custom Board” card appears. Enter an appropriate title in the "Board Title" column and click Save. The Custom Board is created.
+
+![Board.creation](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/6_Board_Creation.png
+)
+
+7.	To create tasks, click on the "+” icon in below the Board title.
+
+![Click.plus.task.creation](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/7_Click_Plus_Task_Creation.png
+)
+
+8.	Now Enter the Task Title. Below Task Title, enter the start date and end date of the task. set the status of the task.  Assign the owner of the task.
+
+![Task.details](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/8_Task_Details.png
+)
+
+9.	Now click on the “Launch” icon to finish creating the Custom Board and the task beneath it.
+
+![Create.task](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/9_Create_Task.png
+)
+
+
+<b>Note:</b> To discard a task during creation, click on the “X” icon.
+
+![Discard.task](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/10_Disard_task.png
+)
+
+### Note 
+
+1.	To have a better view of all the tasks under a custom Board, click on the expansion icon.
+
+![Expansion.of.boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/11_Expansion_Of_Board.png
+)
+
+2.	To customize the colour of the Board, click on the colour pixel circle.
+
+![Colour.pixel](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/12_Colour_pixel.png
+)
+
+3.	Track the progress and number of overdue tasks below the title of every Board.
+
+![Track.process](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/13_Track_progress.png
+)
+
+4.	To Delete a Board, click on the delete icon.
+
+![Delete.Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/14_Delete_Board.png
+)
