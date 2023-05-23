@@ -33,8 +33,8 @@ iii) After clicking on the indicator number, you will be redirected to the board
   ![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/child-boards-list.png)
 
 iv) To filter out the process activities which are overdue, you can click on the overdue button as **(highlighted in below image)**
-![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/overdue.png)
+![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/overdue.PNG)
 
 As you click on the overdue button the color of button changes to orange and hence it filters out the process activities which are overdue. As shown in below image, out of 3 process activity, 1 process activity was overdue.
-![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/overdue-filter.png)
+![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/overdue-filter.PNG)
 
