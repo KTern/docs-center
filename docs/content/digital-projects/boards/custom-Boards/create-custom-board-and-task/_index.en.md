@@ -3,7 +3,7 @@ title: "How to create Custom Boards and tasks?"
 date: 2023-05-18T11:56:05+06:00
 icon: "ti-panel"
 lastmod: 2023-05-18T11:56:05+06:00
-weight: 2
+weight: 4
 draft: false
 description: "Custom Boards facilitate the creation of personalized Boards with customized activities, which can be tailored to meet the specific requirements of the user.Custom Boards allow the creation of individual tasks independently, without the need for integration with the project plan. "
 type : "docs"
@@ -57,30 +57,3 @@ The steps below outline the steps for creating "custom Boards" and tasks:
 ![Create.task](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/9_Create_Task.png
 )
 
-
-<b>Note:</b> To discard a task during creation, click on the “X” icon.
-
-![Discard.task](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/10_Disard_task.png
-)
-
-### Note 
-
-1.	To have a better view of all the tasks under a custom Board, click on the expansion icon.
-
-![Expansion.of.boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/11_Expansion_Of_Board.png
-)
-
-2.	To customize the colour of the Board, click on the colour pixel circle.
-
-![Colour.pixel](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/12_Colour_pixel.png
-)
-
-3.	Track the progress and number of overdue tasks below the title of every Board.
-
-![Track.process](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/13_Track_progress.png
-)
-
-4.	To Delete a Board, click on the delete icon.
-
-![Delete.Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/14_Delete_Board.png
-)
