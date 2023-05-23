@@ -30,7 +30,7 @@ activities.
 iii) After clicking on the indicator number, you will be redirected to the boards landing page. Click on the drop-down icon, near to the title of board, you will be able to see the list of child boardsassociated with the particular task **(as shown in below image)**
  As you can see there are 2 child boards associated with respective task. 
  Now, you can govern the process activities based on the From Date, To Date, Actual Start Date, Actual End Date also you can decide and prioritize the task which are overdue.
-  ![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/child-board-list.png)
+  ![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/child-boards-list.png)
 
 iv) To filter out the process activities which are overdue, you can click on the overdue button as **(highlighted in below image)**
 ![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/overdue.png)
