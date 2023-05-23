@@ -8,7 +8,7 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
-## Overview
+### Overview
 
 In KTern, signoffs refer to the process of reviewing and approving assets such as documents, procedures, policies and other types of content. Signoffs are used to ensure that the content is accurate, up-to-date, and compliant with organizational standards and requirements. 
 
@@ -33,7 +33,7 @@ In addition to the Signoff Hierarchy, there are two components to be considered 
 
 ![2-signoff-hierarchy](https://storage.googleapis.com/ktern-public-files/product-documentation/Signoffs/2-signoff-hierarchy.png)
 
-## Benefits
+### Benefits
 <ul>
    <li>
       Ensuring accountability and responsibility for business objects or any assets.
