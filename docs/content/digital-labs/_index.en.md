@@ -11,14 +11,10 @@ KTern is an automated digital workplace for SAP Digital Transformations. With de
 
 Digital Labs of KTern is tightly integrated with Digital Projects hub, which is the project management suite. Typically, the testers would be testing the various test cases on one side and the governance would take place via emails or chat or any other project management tool. The whole process was cumbersome and arduous for all the stakeholders involved. Therefore, we developed Digital Labs of KTern to execute, manage and collaborate all the testing related activities of an S/4HANA migration/upgrade project from a single place.
 
-KTern strictly abides by SAP’s Activate framework. Hence, as the first step, in the Discover phase, KTern completely analyses the entire ECC landscape and auto-recommends the test cases and test scenarios. Based on the number of test cases and complexity of the system, KTern calculates the effort and timeline for the S/4HANA migration project.
 
 Some of the prominent features of KTern’s Digital Labs include:
 
 1. Built on SAP’s Activate framework, specifically for SAP transformation projects
-2. An in-built AI based S/4HANAPEDIA rule engine
-3. Value, Volume and Velocity (VVV) based auto test case recommendations
-4. Auto test case executions and defects repository
-5. API-based and screen recorder- based (readable scriptless test cases captured in real time) testing
-6. Tightly integrated project management capabilities
-7. 30% - 40% reduction in total project cost and timeline
+2. Test case executions logs capturing and defects repository
+3. Tightly integrated project management capabilities
+4. 30% - 40% reduction in total project cost and timeline
