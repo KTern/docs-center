@@ -24,9 +24,11 @@ The Custom (Manual) method allows users to create their own boards, which can in
 <li>
 Under Workbook (Timeline of Project Hub), the indicator number in a Work Breakdown Structure (WBS) represents the number of child boards created for that task. i.e., the number of iterations or instances in which a task or activity is cloned and created.
 </li>
+</ul>
 
 ![1f-indicator-number-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1f-indicator-number-i.jpg)
 
+<ul>
 <li>
 On clicking the indicator number, the user will be able to govern process activities using workbook.
 </li>
@@ -46,17 +48,21 @@ This board offers numerous advantages to various user personas, including projec
 <li>
 The active boards encompass tasks for the ongoing sprints, which includes both overdue tasks and specific deliverables.
 </li>
+</ul>
 
 ![3f-active-boards-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3f-active-boards-i.jpg)
 
+<ul>
 <li>
 By clicking the color pixel circle, the color of the boards can be customized according to the user’s wish.
 </li>
+</ul>
 
 ![4f-active-boards-pixel-color1-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4f-active-boards-pixel-color1-ii.jpg)
 
 ![4f-active-boards-pixel-color2-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4f-active-boards-pixel-color2-ii.jpg)
 
+<ul>
 <li>
 The users have no difficulties on visiting to multiple locations for updating the status of those clone and created tasks. Since, the status of the task can be inline edited as shown in the below image.
 </li>
@@ -70,26 +76,32 @@ The users have no difficulties on visiting to multiple locations for updating th
 <li>
 The acronym "C & C Boards" represents the "Clone and Create Board." Users have the option to <b>search</b> and <b>access</b> their respective boards through either <b>project work items name</b> or by <b>process GSI</b> such as manufacturing, asset management, sourcing and procurement in SAP have dedicated boards for easy viewing.
 </li>
+</ul>
 
 ![6f-c-c-boards-search](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/6f-c-c-boards-search.jpg)
 
+<ul>
 <li>
 To have a <b>better view</b> of all the tasks under a board, click the <b>expand icon</b> present over the top right corner of each board. There also, the user could save the changes and could download the list of informations about the tasks too. 
 </li>
+</ul>
 
 ![7f-c-c-boards-expand-icon-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/7f-c-c-boards-expand-icon-i.jpg)
 
 ![8f-c-c-boards-expand-icon-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/8f-c-c-boards-expand-icon-ii.jpg)
 
+<ul>
 <li>
 Unless the tasks fall within the current sprint, the boards will remain inactive and won’t be falling under active boards. 
 </li>
 <li>
 There is a <b>progress indicator</b> showing the progress of each board, which typically takes into account on how many tasks have been completed under that particular board.
 </li>
+</ul>
 
 ![9f-c-c-boards-progress-indicator](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/9f-c-c-boards-progress-indicator.jpg)
 
+<ul>
 <li>
 It saves time and promotes standardized project management practices.
 </li>
@@ -97,6 +109,7 @@ It saves time and promotes standardized project management practices.
 
 **(iv). Custom Boards**
 
+<ul>
 <li>
 "Custom Boards" refers to a feature that allows users to create personalized and tailored boards to suit their specific project management needs, completely independent of the project plan. 
 </li>
@@ -109,63 +122,81 @@ It is a board template tailored for creating and organizing to-do lists within t
 <li>
 For boards that are in active state, green color indicator will be visible on the board.
 </li> 
+</ul>
 
 ![10f-custom-boards-green-color-active-indicator-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/10f-custom-boards-green-color-active-indicator-i.jpg)
 
+<ul>
 <li>
 Every board is equipped with a visible indicator that represents its status, such as "new," "active," or "completed." This feature provides a transparent depiction of the board's current state.
 </li>
+</ul>
 
 ![11f-custom-boards-green-color-active-indicator-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/11f-custom-boards-green-color-active-indicator-ii.jpg)
 
+<ul>
 <li>
 Users can <b>apply filters</b> to narrow down their view by expanding the board, thereby making it easier to locate and focus on relevant information.
 </li>
+</ul>
 
 ![12f-custom-boards-apply-filters](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/12f-custom-boards-apply-filters.jpg)
 
+<ul>
 <li>
 The users can create multiple tasks in a card by clicking the “+” icon present inside the card to create a task.
 </li>
+</ul>
 
 ![13f-custom-boards-create-tasks](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/13f-custom-boards-create-tasks.jpg)
 
+<ul>
 <li>
 Here, the user shall give a name to the new task, set the duration and assign the task to stakeholders. 
 </li>
+</ul>
 
 ![14f-custom-boards-process-for-task-creation](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/14f-custom-boards-process-for-task-creation.jpg)
 
+<ul>
 <li>
 Click the “x” icon to <b>discard a task</b> during its creation.
 </li>
+</ul>
 
 ![15f-custom-boards-discard-task](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/15f-custom-boards-discard-task.jpg)
 
+<ul>
 <li>
 KTern provides <b>robust search and filter capabilities</b> within the digital boards. Users can <b>quickly search</b> for a specific board by using its name.
 </li>
+</ul>
 
 ![16f-custom-boards-search-boards-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/16f-custom-boards-search-boards-i.jpg)
 
 ![17f-custom-boards-search-boards-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/17f-custom-boards-search-boards-ii.jpg)
 
+<ul>
 <li>
 Users have the advantage of <b>viewing the number of overdue tasks</b> present in a board on the following places as shown below: 
 </li>
+</ul>
 
 ![18f-custom-boards-view-overdue-tasks-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/18f-custom-boards-view-overdue-tasks-i.jpg)
 
 ![19f-custom-boards-view-overdue-tasks-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/19f-custom-boards-view-overdue-tasks-ii.jpg)
 
+<ul>
 <li>
 While searching for a task inside a board, the user could search by the task name or by WBS.
 </li>
+</ul>
 
 ![20f-custom-boards-search-tasks-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/20f-custom-boards-search-tasks-i.jpg)
 
 ![21f-custom-boards-search-tasks-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/21f-custom-boards-search-tasks-ii.jpg)
 
+<ul>
 <li>
 User can <b>delete a board</b> any numbers of time, by clicking the “delete” button (1) and to <b>delete a task</b>, click the “delete” button (2).
 </li>
