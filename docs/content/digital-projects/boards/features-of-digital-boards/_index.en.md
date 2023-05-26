@@ -10,10 +10,10 @@ type : "docs"
 ---
 <ul>
 <li>
-The Clone and Create (Automatic) method involves categorizing tasks based on global scope items and parent tasks. Subsequently, a board is automatically generated based on this categorization. The tasks under this can be seen under active boards or C & C boards based on its status.
+The <b>Clone and Create (Automatic) method</b> involves categorizing tasks based on global scope items and parent tasks. Subsequently, a board is automatically generated based on this categorization. The tasks under this can be seen under active boards or C & C boards based on its status.
 </li>
 <li>
-The Custom (Manual) method allows users to create their own boards, which can include creation of tasks, trainings, workshops and assigning them to stakeholders or themselves. This is particularly useful for creating personalized to-do lists. The tasks under this can be seen under active boards or custom boards based on its status.
+The <b>Custom (Manual) method</b> allows users to create their own boards, which can include creation of tasks, trainings, workshops and assigning them to stakeholders or themselves. This is particularly useful for creating personalized to-do lists. The tasks under this can be seen under active boards or custom boards based on its status.
 </li>
 </ul>
 
