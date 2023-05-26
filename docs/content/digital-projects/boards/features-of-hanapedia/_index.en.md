@@ -9,6 +9,7 @@ description: "Digital Boards is a collection of project activities displayed in 
 type : "docs"
 ---
 
+
 <ul>
 <li>
 The Clone and Create (Automatic) method involves categorizing tasks based on global scope items and parent tasks. Subsequently, a board is automatically generated based on this categorization. The tasks under this can be seen under active boards or C & C boards based on its status.
