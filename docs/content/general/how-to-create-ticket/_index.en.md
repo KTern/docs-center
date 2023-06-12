@@ -32,10 +32,10 @@ To create a ticket in KTern.AI follow the mentioned steps below:
    ![4_Click_on_AddTickets](https://storage.googleapis.com/ktern-public-files/product-documentation/Ticket%20Center/4_Click_on_AddTickets.png)
 
 4.	Fill in all the necessary fields like:
-      a.	Title
-      b.	Priority
-      c.	Classification
-      d. Project name
+      a.	Title <br>
+      b.	Priority <br>
+      c.	Classification <br>
+      d. Project name 
 
    ![5_Fileds_1](https://storage.googleapis.com/ktern-public-files/product-documentation/Ticket%20Center/5_Fileds_1.png)
 
