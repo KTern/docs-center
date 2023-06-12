@@ -14,7 +14,7 @@ launchpad, click on the user profile **(1)** and then click on “Ticket Center"
 ![Ticket_center](https://storage.googleapis.com/ktern-public-files/product-documentation/Ticket%20Center/ticket-center.png)
 
 ii) Now you will be able to see the count of tickets based on the classification of status of ticket.
-![Ticket-status-center](https://storage.googleapis.com/ktern-public-files/product-documentation/Ticket%20Center/ticket-status-center.png)
+![Ticket-status-center](https://storage.googleapis.com/ktern-public-files/product-documentation/Ticket%20Center/ticket-center-status.png)
 
 iii) You can filter the ticket based on the Title, Raised on, Raised By, Status , Classification, Priority, ETA.
 ![Filter](https://storage.googleapis.com/ktern-public-files/product-documentation/Ticket%20Center/filter.png)
