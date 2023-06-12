@@ -1,5 +1,5 @@
 ---
-title: "How to create a ticket?"
+title: "How to govern the tickets?"
 date: 2023-06-12T11:02:05+06:00
 lastmod: 2023-06-15T11:02:05+06:00
 weight: 1
