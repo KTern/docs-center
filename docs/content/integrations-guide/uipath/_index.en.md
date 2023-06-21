@@ -9,7 +9,7 @@ keywords: ["induct", "instate"]
 ---
 
 
-# UiPath and KTern.AI
+# UiPath Test Manager and KTern.AI
 
 Have you ever wanted to test the testcases that only needs testing when you are preparing for a release ? Or may be you have found yourself testing all of your testcases (may be 1000 or 3000 or 10,000) for a single release cycle. Now you can test only what needs to be tested using _UiPath Integration Bot available in KTern_
 
