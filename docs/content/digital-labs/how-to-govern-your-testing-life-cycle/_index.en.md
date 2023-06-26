@@ -2,7 +2,7 @@
 title: "How to govern your testing life cycle?"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
-weight: 10
+weight: 11
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
