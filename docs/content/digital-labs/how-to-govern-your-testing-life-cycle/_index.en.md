@@ -20,19 +20,19 @@ Within the Digital Labs dropdown menu, the user has access to the <b>Test Cockpi
 
 ![1-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/1-how-to-govern-your-testing-life-cycle.png)
 
-## A. Test Suite Cockpit
+### A. Test Suite Cockpit
 
 The testing lifecycle is governed by the Test Suite Cockpit, which includes the Test Catalog, Insights, Test Suite Dashboard, and Sign-Off Wizard.
 
 ![2-test-cockpit-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/2-test-cockpit-how-to-govern-your-testing-life-cycle.png)
 
-### I. Test Catalog
+#### I. Test Catalog
 
 Easy test execution is enabled by the Test Catalog, which serves as a comprehensive list of test plans <b>(1)</b>, scenarios <b>(2)</b>, and cases <b>(3)</b>. It organizes test items hierarchically, simplifying navigation and execution for the user.
 
 ![3-test-catalog-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/3-test-catalog-how-to-govern-your-testing-life-cycle.png)
 
-### Test Case Wizard
+#### Test Case Wizard
 
 <ul>
 <li>
@@ -48,7 +48,7 @@ The Test Case Wizard, with its various tabs, plays a crucial role in governing t
 
 ![5-test-case-wizard-2-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/5-test-case-wizard-2-how-to-govern-your-testing-life-cycle.png)
 
-### a. Test Center
+#### a. Test Center
 
 <ul>
 <li>
@@ -74,7 +74,7 @@ Comprehensive test case reports can also be downloaded and edited according to t
 
 ![8-test-center-3-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/8-test-center-3-how-to-govern-your-testing-life-cycle.png)
 
-### b. Test Lab
+#### b. Test Lab
 
 Test cases are executed in the Test Lab tab (5) in KTern. It ensures a systematic and thorough validation of the application or system being tested. The Test Lab also allows for defining the test environment and managing test scripts and logs.
 
@@ -86,7 +86,7 @@ Test cases are executed in the Test Lab tab (5) in KTern. It ensures a systemati
 
 ![10-test-lab-test-execution-log-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/10-test-lab-test-execution-log-how-to-govern-your-testing-life-cycle.png)
 
-### c. Defects Repository
+#### c. Defects Repository
 
 <ul>
 <li>
@@ -104,13 +104,13 @@ This centralized repository streamlines defect management and promotes collabora
 </li>
 </ul>
 
-### d. History
+#### d. History
 
 KTern captures a comprehensive history (7) log that tracks all changes made to test cases, providing valuable insights into their evolution and updates over time.
 
 ![12-history-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/12-history-how-to-govern-your-testing-life-cycle.png)
 
-### II. Insights
+#### II. Insights
 
 <ul>
 <li>
@@ -134,11 +134,11 @@ Additionally, they have the flexibility to add new reports and customize their n
 
 ![14-insights-2-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/14-insights-2-how-to-govern-your-testing-life-cycle.png)
 
-## B. Analytics or Test Suite Dashboard
+### B. Analytics or Test Suite Dashboard
 
 The Analytics section can be accessed either by clicking on the <b>Dashboard</b> or selecting <b>Analytics</b> from the dropdown menu on the left. 
 
-### I. Status of work items
+#### I. Status of work items
 
 <ul>
 <li>
@@ -164,7 +164,7 @@ This feature enables project managers to efficiently oversee and manage the test
 </li>
 </ul>
 
-### II. Resource Utilization Table
+#### II. Resource Utilization Table
 
 <ul>
 <li>
@@ -182,7 +182,7 @@ This table allows you to easily track and manage the distribution of test cases 
 </li>
 </ul>
 
-## C. Signoff Wizard
+### C. Signoff Wizard
 <ul>
 <li>
 KTern's signoff wizard enables the creation of multiple signoff items and mapping of multiple test cases within each signoff item.
@@ -202,9 +202,9 @@ These signoff items can be hierarchically approved by stakeholders from both the
 Extensive documentation on test cases and defects is eliminated.
 </li>
 
-## D. Transformation Hub
+### D. Transformation Hub
 
-### I. Issues Section
+#### I. Issues Section
 
 <ul>
 <li>
