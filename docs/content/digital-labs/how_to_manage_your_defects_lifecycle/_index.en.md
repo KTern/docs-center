@@ -1,5 +1,5 @@
 ---
-title: "How to create and manage your Defects Lifecycle?"
+title: "How To Create And Manage Your Defects Lifecycle?"
 date: 2021-06-19T11:02:05+06:00
 lastmod: 2021-06-19T11:02:05+06:00
 weight: 11
@@ -16,7 +16,7 @@ For every failed test case in your Test Catalog, create your own Defects and man
 <br>
 <br>
 
-## Create Defects:
+## Create Defects
 
 To create Defects, follow the mentions steps below:
 
@@ -38,7 +38,7 @@ a.	Overview<br>
 b.	Stakeholder information<br>
 c.	Planned vs Actual<br>
 
-### Overview:
+### Overview
 
 Fill in the details like:
 
@@ -56,7 +56,7 @@ Fill in the details like:
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/5_overview.png)
 
 
-### Stakeholder Information:
+### Stakeholder Information
 
 Fill in the details like:
 
@@ -65,7 +65,7 @@ Fill in the details like:
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/6_stakeholder_info.png)
 
-### Planned vs Actual:
+### Planned vs Actual
 
 Fill in the details like:
 
@@ -88,7 +88,7 @@ Fill in the details like:
 
 
 
-## Manage Defects:
+## Manage Defects
 
 To manage the Defects created by using issue, follow the steps mentioned below:
 
@@ -137,7 +137,7 @@ i.	Participants<br>
 Issue wizard provides the overall information about an Issue. Issue wizard contains: 
 
 
-#### a.	Overview:
+#### a.	Overview
 
 Overview provides details like:
 <br>
@@ -149,20 +149,20 @@ v.	Work item Hierarchy<br>
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/16_overView.png)
 
-#### b.	Wiki Notes:
+#### b.	Wiki Notes
 
 Wiki notes is a inbuilt notes where a user can make note of key information for an issue.
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/17_wikinotes.png)
 
 
-#### c.	History:
+#### c.	History
 
 History helps to have track on the updates and work happening in an issue.
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/18_History.png)
 
-#### d.	Reference:
+#### d.	Reference
 
 References provides details like modules, business process, Transport request, OSS notes, T-Code, WRICEF objects.
 
@@ -185,14 +185,14 @@ d.	Work Package<br>
 
 
 
-### Analytics:
+### Analytics
 
 10.	To visually understand the status of all the Issues, Click on Analytics. A pie chart with the details of the status and number of overdue items appears.
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/22_Analytics.png)
 
 
-### Insights:
+### Insights
 
 11.	To create your own reports, Click on insights. You will be redirected to the insights page.
 
