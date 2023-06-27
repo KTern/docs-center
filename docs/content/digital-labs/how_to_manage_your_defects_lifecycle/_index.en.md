@@ -1,5 +1,5 @@
 ---
-title: "How To Create And Manage Your Defects Life cycle?"
+title: "How To Create And Manage Your Defects Life Cycle?"
 date: 2023-06-19T11:02:05+06:00
 lastmod: 2023-06-19T11:02:05+06:00
 weight: 12
