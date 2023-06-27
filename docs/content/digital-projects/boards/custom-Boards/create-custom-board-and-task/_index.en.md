@@ -49,6 +49,7 @@ The steps below outline the steps for creating "custom Boards" and tasks:
 
 8.	Now Enter the Task Title. Below Task Title, enter the start date and end date of the task. set the status of the task.  Assign the owner of the task. 
 <br>
+<br>
 Now click on the “Launch” icon to finish creating the Custom Board and the task beneath it.
 
 ![Task.details](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/8_Task_Details.png
