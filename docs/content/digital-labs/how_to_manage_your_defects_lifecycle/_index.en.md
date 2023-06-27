@@ -1,5 +1,5 @@
 ---
-title: "How To Create And Manage Your Defects Lifecycle?"
+title: "How To Create And Manage Your Defects Life Cycle?"
 date: 2023-06-19T11:02:05+06:00
 lastmod: 2023-06-19T11:02:05+06:00
 weight: 12
@@ -9,7 +9,7 @@ keywords: ["induct", "instate"]
 ---
 
 
-For every failed test case in your Test Catalog, create your own Defects and manage them throughout their lifecycle using “Issues”.
+For every failed test case in your Test Catalog, create your own Defects and manage them throughout their life cycle using “Issues”.
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/1_Test_cockpit.png)
 
