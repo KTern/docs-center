@@ -1,7 +1,7 @@
 ---
 title: "How To Create And Manage Your Defects Lifecycle?"
-date: 2021-06-19T11:02:05+06:00
-lastmod: 2021-06-19T11:02:05+06:00
+date: 2023-06-19T11:02:05+06:00
+lastmod: 2023-06-19T11:02:05+06:00
 weight: 12
 draft: false
 # search related keywords
