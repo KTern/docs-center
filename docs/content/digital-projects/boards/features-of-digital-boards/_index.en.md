@@ -24,7 +24,7 @@ The <b>Custom (Manual) method</b> allows users to create their own boards, which
 Under Workbook (Timeline of Project Hub), the indicator number in a Work Breakdown Structure (WBS) represents the number of child boards created for that task. i.e., the number of iterations or instances in which a task or activity is cloned and created.
 </li>
 
-![1f-indicator-number-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1f-indicator-number-i.jpg)
+![1f-indicator-number-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1f-indicator-number-i.png)
 
 <li>
 On clicking the indicator number, the user will be able to govern process activities using workbook.
