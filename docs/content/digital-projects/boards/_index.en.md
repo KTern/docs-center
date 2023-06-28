@@ -16,7 +16,9 @@ keywords: ["induct", "instate"]
         Digital boards encompass a collection of tasks generated through two distinct processes: the Clone and Create method and the Custom method.
     </li>
 </ul>
-    ![1-Digtial-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1-Digtial-Boards.png)
+
+![1-Digtial-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1-Digtial-Boards.png)
+
 <ul>
     <li>
         Boards can be conveniently viewed in a card format, providing a user-friendly interface.
