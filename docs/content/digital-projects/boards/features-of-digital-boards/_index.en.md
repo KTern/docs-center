@@ -37,7 +37,7 @@ On clicking the indicator number, the user will be able to view the child boards
 
 ![3f-indicator-number-iii](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3f-indicator-number-iii.png)
 
-#### Boards - Color categorization**
+#### Boards - Color categorization
 
 <ul>
 <li>
