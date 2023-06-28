@@ -38,9 +38,9 @@ keywords: ["induct", "instate"]
 
 In Digital Projects, the following are the three types of boards: 
 
-(i). Active Boards
-(ii). C & C Boards
-(iii). Custom Boards
+(i). Active Boards <br>
+(ii). C & C Boards <br>
+(iii). Custom Boards <br>
 
 Let's look in detail about these three different types of boards.
 
@@ -48,11 +48,11 @@ Let's look in detail about these three different types of boards.
 
 ![2-Active-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/2-Active-Boards.png)
 
-**(ii). C & C Boards:** The "C & C Boards" contain all the boards that have been created through the Clone and Create process. 
+**(ii). C & C Boards:** The "C & C Boards" contain all the boards along with the process activities that have been created through  Clone and Create. 
 
 ![3-C-&-C-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3-C-&-C-Boards.png)
 
-**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own to-do lists and reminders. 
+**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own governance. 
 
 ![4-Custom-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4-Custom-Boards.png)
 
@@ -72,7 +72,7 @@ It empowers teams to maintain a consistent structure and predefined workflows,le
 </li>
 <li>
 
-**Timeline View:** The number of Digital Boards in KTern can be viewed in timeline format under concerned parent tasks of workbook, which provides a visual representation of the project's progress.  
+**Timeline View:** The number of child boards corresponding to a parent task can be viewed in WBS column of the timeline. 
 </li>
 <li>
 
