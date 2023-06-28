@@ -182,27 +182,7 @@ This table allows you to easily track and manage the distribution of test cases 
 </li>
 </ul>
 
-### C. Signoff Wizard
-<ul>
-<li>
-KTern's signoff wizard enables the creation of multiple signoff items and mapping of multiple test cases within each signoff item.
-</li>
-
-![17-signoff-wizard-1-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/17-signoff-wizard-1-how-to-govern-your-testing-life-cycle.png)
-
-![18-signoff-wizard-2-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/18-signoff-wizard-2-how-to-govern-your-testing-life-cycle.png)
-
-<li>
-These signoff items can be hierarchically approved by stakeholders from both the system integrator and customer sides, promoting transparency and reducing ambiguity.
-</li>
-
-![19-signoff-wizard-3-how-to-govern-your-testing-life-cycle](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/19-signoff-wizard-3-how-to-govern-your-testing-life-cycle.png)
-
-<li>
-Extensive documentation on test cases and defects is eliminated.
-</li>
-
-### D. Transformation Hub
+### C. Transformation Hub
 
 #### I. Issues Section
 
