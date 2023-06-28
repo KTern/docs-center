@@ -8,35 +8,26 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
-### Overview
-
-![1-Digtial-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1-Digtial-Boards.png)
-
 <ul>
     <li>
-        Digital Boards is a collection of project activities displayed in the form of cards, which helps to comment and update activities more easily.
+        Digital Boards is a collection of project activities displayed in the form of cards, which helps to govern and update activities more easily.
     </li>
     <li>
-        Digital boards encompass a collection of tasks generated through two distinct processes: the Clone and Create method (Automatic) and the Custom method (Manual).
+        Digital boards encompass a collection of tasks generated through two distinct processes: the Clone and Create method and the Custom method.
     </li>
+
+    ![1-Digtial-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1-Digtial-Boards.png)
+
     <li>
         Boards can be conveniently viewed in a card format, providing a user-friendly interface.
     </li>
     <li>
-        These digital boards facilitate various functions such as viewing tasks for the current sprint, enhancing productive scrum calls, and enabling inline editing of task’s status.
+        These digital boards facilitate various functions such as viewing tasks for the current sprint, productive scrum calls, and enabling inline editing of task’s status.
     </li>
     <li>
         This streamlined approach allows users to access a comprehensive list of boards, each associated with various modules. Additionally, creating new boards is effortless and user-friendly.
     </li>
-    <li>
-        After a board is being created, users have the flexibility to modify it according to the specific requirements of new tasks or items.
-    </li>
-    <li>
-        They can customize the board's parent tasks, select only the necessary columns for easy viewing, and apply filters based on their specific needs.
-    </li>
-    <li>
-        This level of customization empowers users to optimize their board layouts and configurations for enhanced productivity.
-    </li>
+    
     <li>
         This efficiently enables users to save time, ensure consistency, and streamline project workflows, resulting in increased productivity.
     </li>
@@ -46,7 +37,13 @@ keywords: ["induct", "instate"]
 
 In Digital Projects, the following are the three types of boards: 
 
-**(i). Active Boards:** "Active Boards" refers to the specific boards that are currently active. 
+(i). Active Boards
+(ii). C & C Boards
+(iii). Custom Boards
+
+Let's look in detail about these three different types of boards.
+
+**(i). Active Boards:** "Active Boards" refers to the  boards that are currently active. 
 
 ![2-Active-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/2-Active-Boards.png)
 
