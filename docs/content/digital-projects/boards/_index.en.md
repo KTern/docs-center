@@ -48,11 +48,11 @@ Let's look in detail about these three different types of boards.
 
 ![2-Active-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/2-Active-Boards.png)
 
-**(ii). C & C Boards:** The "C & C Boards" contain all the boards along with the process activities that have been created through  Clone and Create. 
+**(ii). C & C Boards:** The acronym "C & C Boards" represents the "Clone and Create Board." The C & C Boards contain all the boards along with the process activities that have been created through Clone and Create. Users have the option to <b>search</b> and <b>access</b> their respective boards through either <b>project work items name</b> or by <b>process GSI</b> such as manufacturing, asset management, sourcing and procurement in SAP have dedicated boards for easy viewing.
 
 ![3-C-&-C-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3-C-&-C-Boards.png)
 
-**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own governance. 
+**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own governance. The tasks within these boards are independent and will not be reflected in the project plan.
 
 ![4-Custom-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4-Custom-Boards.png)
 
