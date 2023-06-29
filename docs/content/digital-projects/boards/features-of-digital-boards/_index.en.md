@@ -101,7 +101,7 @@ For boards that are in active state, green color indicator will be visible on th
 </li> 
 </ul>
 
-![10f-custom-boards-green-color-active-indicator](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/10f-custom-boards-green-color-active-indicator.png)
+![10f-green-color-active-indicator](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/10f-green-color-active-indicator.png)
 
 #### Active boards Criteria
 
