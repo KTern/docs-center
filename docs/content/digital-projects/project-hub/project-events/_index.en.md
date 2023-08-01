@@ -1,13 +1,12 @@
 ---
 title: "Project Events"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 13
+lastmod: 2023-08-01T11:02:05+06:00
+weight: 31
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
 
 A Project Meeting is a regular event that involves everyone, who shares or is interested in the project, in communicating with other participants and stakeholders by discussing issues, making proposals, approving or rejecting offers, for the purpose of generating group decisions that contribute to quicker project delivery, according to the planned goals and expected results.
 

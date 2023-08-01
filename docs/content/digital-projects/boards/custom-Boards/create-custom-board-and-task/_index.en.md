@@ -2,13 +2,12 @@
 title: "How to create Custom Boards and tasks?"
 date: 2023-05-18T11:56:05+06:00
 icon: "ti-panel"
-lastmod: 2023-05-18T11:56:05+06:00
-weight: 4
+lastmod: 2023-08-01T11:56:05+06:00
+weight: 13
 draft: false
 description: "Custom Boards facilitate the creation of personalized Boards with customized activities, which can be tailored to meet the specific requirements of the user.Custom Boards allow the creation of individual tasks independently, without the need for integration with the project plan. "
 type : "docs"
 ---
-
 
 The steps below outline the steps for creating "custom Boards" and tasks:
 

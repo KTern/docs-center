@@ -1,13 +1,12 @@
 ---
 title: "Project Dashboard"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 8
+lastmod: 2023-08-01T11:02:05+06:00
+weight: 24
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
 
 The dashboard contains the analytics of the work items which can be viewed as per the different phases, work packages, status of the work items, stakeholder, modules and business processes. Thus, the project manager can have a clear view on the happenings of the project.
 

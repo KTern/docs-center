@@ -1,13 +1,12 @@
 ---
 title: "Project Launchpad"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 4
+lastmod: 2023-08-01T11:02:05+06:00
+weight: 7
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
 
 On successful creation of a new Project, the user will be landed up in Project Launchpad. Project Launchpad screen provides you the list of Projects in which you are a member of the Project. NOTE: The user must accept the invitation to see the Projects in Launchpad.
 

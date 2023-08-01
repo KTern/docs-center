@@ -1,8 +1,8 @@
 ---
 title: "How to track my day-to-day activities?"
 date: 2023-05-09T11:02:05+06:00
-lastmod: 2023-05-09T11:02:05+06:00
-weight: 1
+lastmod: 22023-08-01T11:02:05+06:00
+weight: 4
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
