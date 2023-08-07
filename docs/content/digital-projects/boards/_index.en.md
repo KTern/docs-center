@@ -1,41 +1,33 @@
 ---
 title: "Boards"
 date: 2023-05-17T11:02:05+06:00
-lastmod: 2023-05-17T11:02:05+06:00
-weight: 18
+lastmod: 2023-08-01T11:02:05+06:00
+weight: 10
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
 
-### Overview
+<ul>
+    <li>
+        Digital Boards is a collection of project activities displayed in the form of cards, which helps to govern and update activities more easily.
+    </li>
+    <li>
+        Digital boards encompass a collection of tasks generated through two distinct processes: the Clone and Create method and the Custom method.
+    </li>
+</ul>
 
 ![1-Digtial-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/1-Digtial-Boards.png)
 
 <ul>
     <li>
-        Digital Boards is a collection of project activities displayed in the form of cards, which helps to comment and update activities more easily.
-    </li>
-    <li>
-        Digital boards encompass a collection of tasks generated through two distinct processes: the Clone and Create method (Automatic) and the Custom method (Manual).
-    </li>
-    <li>
         Boards can be conveniently viewed in a card format, providing a user-friendly interface.
     </li>
     <li>
-        These digital boards facilitate various functions such as viewing tasks for the current sprint, enhancing productive scrum calls, and enabling inline editing of task’s status.
+        These digital boards facilitate various functions such as viewing tasks for the current sprint, productive scrum calls, and enabling inline editing of task’s status.
     </li>
     <li>
         This streamlined approach allows users to access a comprehensive list of boards, each associated with various modules. Additionally, creating new boards is effortless and user-friendly.
-    </li>
-    <li>
-        After a board is being created, users have the flexibility to modify it according to the specific requirements of new tasks or items.
-    </li>
-    <li>
-        They can customize the board's parent tasks, select only the necessary columns for easy viewing, and apply filters based on their specific needs.
-    </li>
-    <li>
-        This level of customization empowers users to optimize their board layouts and configurations for enhanced productivity.
     </li>
     <li>
         This efficiently enables users to save time, ensure consistency, and streamline project workflows, resulting in increased productivity.
@@ -46,15 +38,21 @@ keywords: ["induct", "instate"]
 
 In Digital Projects, the following are the three types of boards: 
 
-**(i). Active Boards:** "Active Boards" refers to the specific boards that are currently active. 
+(i). Active Boards <br>
+(ii). C & C Boards <br>
+(iii). Custom Boards <br>
+
+Let's look in detail about these three different types of boards.
+
+**(i). Active Boards:** "Active Boards" refers to the  boards that are currently active. 
 
 ![2-Active-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/2-Active-Boards.png)
 
-**(ii). C & C Boards:** The "C & C Boards" contain all the boards that have been created through the Clone and Create process. 
+**(ii). C & C Boards:** The acronym "C & C Boards" represents the "Clone and Create Board." The C & C Boards contain all the boards along with the process activities that have been created through Clone and Create. Users have the option to <b>search</b> and <b>access</b> their respective boards through either <b>project work items name</b> or by <b>process GSI</b> such as manufacturing, asset management, sourcing and procurement in SAP have dedicated boards for easy viewing.
 
 ![3-C-&-C-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3-C-&-C-Boards.png)
 
-**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own to-do lists and reminders. 
+**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own governance. The tasks within these boards are independent and will not be reflected in the project plan.
 
 ![4-Custom-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4-Custom-Boards.png)
 
@@ -74,7 +72,7 @@ It empowers teams to maintain a consistent structure and predefined workflows,le
 </li>
 <li>
 
-**Timeline View:** The number of Digital Boards in KTern can be viewed in timeline format under concerned parent tasks of workbook, which provides a visual representation of the project's progress.  
+**Timeline View:** The number of child boards corresponding to a parent task can be viewed in WBS column of the timeline. 
 </li>
 <li>
 
