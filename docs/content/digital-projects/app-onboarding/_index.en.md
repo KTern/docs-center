@@ -48,7 +48,7 @@ Under the "Update Digital Entities" Workplace, you can import a list of users wh
 ![7-import-data-users-i](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/7-import-data-users-i.png)
 
 <li>
-To understand the template for the Excel file, you can download the KTern Model Template - Users.xlsx.
+To understand the template for the Excel file, you can download the KTern Model Template for user upload.
 </li>
 
 ![8-import-data-users-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/8-import-data-users-ii.png)
@@ -74,7 +74,7 @@ Under the "Update Digital Entities" section of the project, you can import the p
 ![12-import-project-plan-i](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/12-import-project-plan-i.png)
 
 <li>
-To understand the template for the Excel file, you can download the KTern Model Template - Tasks (Project Plan).xlsx.
+To understand the template for the Excel file, you can download the KTern Model Template for project plan upload. 
 </li>
 
 ![13-import-project-plan-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/13-import-project-plan-ii.png)
@@ -94,7 +94,7 @@ After uploading, KTern will automatically validate the project plan according to
 ![16-import-project-plan-v](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/16-import-project-plan-v.png)
 
 <li>
-After uploading, the user list and project plan can be viewed.
+After uploading, accessing or viewing the uploaded data, including the user list and project plan, can be accomplished by clicking on the “eye” icon. 
 </li>
 
 ![17-view-users](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/17-view-users.png)
@@ -102,7 +102,7 @@ After uploading, the user list and project plan can be viewed.
 ![18-view-done](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/18-view-done.png)
 
 <li>
-If you need to integrate KTern with any of the listed applications, you can select the desired one. For example, KEBS is selected here for data integration with KTern.
+If you need to integrate KTern with any of the listed applications, you can select the desired one. 
 </li>
 
 ![19-integration](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/19-integration.png)
