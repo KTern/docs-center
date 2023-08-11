@@ -28,24 +28,24 @@ To access "User Settings," click the corresponding option. Within this section, 
 
 ![3-icon-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/3-icon-user-settings.png)
 
-1. **Profile:** The user could update profile picture, view/edit name, email and bio. Once modifications have been applied, click on the "Update Profile" button to save the changes.
+**1. Profile:** The user could update profile picture, view/edit name, email and bio. Once modifications have been applied, click on the "Update Profile" button to save the changes.
 
 ![4-profile-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/4-profile-user-settings.png)
 
-2. **Projects:** Users can view a list of all projects the user is associated with. Details such as role, team, organization, organization type, and reporting hierarchy are provided.
+**2. Projects:** Users can view a list of all projects the user is associated with. Details such as role, team, organization, organization type, and reporting hierarchy are provided.
 
 ![6-projects-user-settings-i](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/6-projects-user-settings-i.png)
 
 ![7-projects-user-settings-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/7-projects-user-settings-ii.png)
 
-3. **Notifications:** User can enable/disable notifications for specific conditions, including: 
+**3. Notifications:** User can enable/disable notifications for specific conditions, including: 
 
-a. When assigned a work item. </br>
-b. When a work item undergoes status updates. </br>
-c. When invited to an event. </br>
+     a. When assigned a work item. </br>
+     b. When a work item undergoes status updates. </br>
+     c. When invited to an event. </br>
 
 ![8-notifications-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/8-notifications-user-settings.png)
 
-4. **Account:** Besides updating the password, users can modify team or project location as required. Remember to click the "Update Location" button or the "Update Password" button if you make any changes in any of those.
+**4. Account:** Besides updating the password, users can modify team or project location as required. Remember to click the "Update Location" button or the "Update Password" button if you make any changes in any of those.
 
 ![5-account-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/5-account-user-settings.png)
