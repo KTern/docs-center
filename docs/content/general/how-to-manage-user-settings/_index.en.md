@@ -24,6 +24,7 @@ By clicking on the user's avatar, several options become available: User Setting
 <li>
 To access "User Settings," click the corresponding option. Within this section, users will find four distinct navigation sections:
 </li>
+</ul>
 
 ![3-icon-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/3-icon-user-settings.png)
 
@@ -39,14 +40,12 @@ To access "User Settings," click the corresponding option. Within this section, 
 
 3. **Notifications:** User can enable/disable notifications for specific conditions, including: 
 
-<br>   </br> a. When assigned a work item. </br>
-<br>   </br> b. When a work item undergoes status updates. </br>
-<br>   </br> c. When invited to an event. </br>
+a. When assigned a work item. </br>
+b. When a work item undergoes status updates. </br>
+c. When invited to an event. </br>
 
 ![8-notifications-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/8-notifications-user-settings.png)
 
 4. **Account:** Besides updating the password, users can modify team or project location as required. Remember to click the "Update Location" button or the "Update Password" button if you make any changes in any of those.
 
 ![5-account-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/5-account-user-settings.png)
-
-</ul>
