@@ -33,9 +33,9 @@ By clicking on the user's avatar, several options become available: User Setting
 To access "User Settings," click the corresponding option. Within this section, users will find four distinct navigation sections:
 
    1. Profile </br>
-   2. Accounts </br>
-   3. Projects </br>
-   4. Notifications </br>
+   2. Projects </br>
+   3. Notifications </br>
+   4. Accounts </br>
 
 ![3-icon-user-settings](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/User%20Settings/3-icon-user-settings.png)
 
