@@ -2,7 +2,7 @@
 title: "How to manage user settings ?"
 date: 2023-08-10T11:02:05+06:00
 lastmod: 2023-08-11T11:02:05+06:00
-weight: 3
+weight: 41
 draft: false
 # search related keywords
 keywords: ["user settings", "forgot password","notifications","project settings"]
