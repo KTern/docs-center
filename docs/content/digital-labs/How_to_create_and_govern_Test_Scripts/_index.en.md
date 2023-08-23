@@ -44,14 +44,16 @@ You will be redirected to the Test Case Wizard page.
 4.	To create a new test script, click on “Add new Test Lab Item” and select “Test Script.”
 
 5.	A side panel will open with fields to create the test script. Fill in the following details:
+<ul>
+  <li>Test Script Title</li>
+  <li>Planned Test Environment</li>
+  <li>Test steps (including Step Title, Step Action, Step Value, Instruction, Executed result)</li>
+  <li>Use the “Add new step” button to add multiple steps.</li>
+</ul>
 
-– Test Script Title
-–	Planned Test Environment
-–	Test steps (including Step Title, Step Action, Step Value, Instruction, Executed result)
-–	Use the “Add new step” button to add multiple steps.
 6.	Once you’ve filled in the necessary information, click “Submit” to create your test script.
 
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/6_SelectTestScript.png)
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/7_TestscriptSubmit.png)
 
 ## Editing an Existing Test Script 
 To make changes to an existing test script, follow these steps:
@@ -61,7 +63,7 @@ To make changes to an existing test script, follow these steps:
 
 3.	Use the “Edit” option to modify the test script details as needed.
 
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/7_TestscriptSubmit.png)
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/8_EditTestScript.png)
 
 ## Governing Test Scripts 
 Governing test scripts includes tracking their execution and outcomes. To do this, create corresponding test logs.
@@ -70,13 +72,16 @@ To create test logs for a test script, follow these steps:
 
 1.	Click on “Add new Test Lab Item” and choose “Test Execution Logs.”
 
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/8_EditTestScript.png)
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/9_SelectTestLog.png)
 
 2.	A side panel will open with fields to create test logs for the script. Fill in the following details:
 
-–	Execution Title
-–	Actual Environment
-–	Test Script (the one you are creating the log for)
+<ul>
+  <li>Actual Environment</li>
+  <li>Execution Title</li>
+  <li>Test Script (the one you are creating the log for)
+</li>
+</ul>
 
 3.	Once you’ve added the test script, fields for test step outcomes will be visible (e.g., Passed, Failed, Untested). You can also add Actual Results and Expected Results.
 
@@ -85,9 +90,9 @@ To create test logs for a test script, follow these steps:
 5.	Click “Add Execution” to create a test log for the test script. This action will also update the status of the test script based on the outcomes recorded.
 
 
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/9_SelectTestLog.png)
-
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/10_CreateTestLog.png)
+
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/11_TestScriptStatusUpdate.png)
 
 ### Governing Test Logs 
 
