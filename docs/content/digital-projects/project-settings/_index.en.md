@@ -8,20 +8,3 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
-Project Settings allows you to customize and configure your projects according to your needs.
-
-To get into project settings follow mentioned steps:
-
-1.	Click on Profile icon
-
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/Project%20Settings/1_Profile_Icon.png)
-
-2.	Click on Project Settings.
-
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/Project%20Settings/2_Project_settings.png)
-
-You will be redirected to Project Settings page.
-
-![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/Project%20Settings/3_ProjectSettingsPage.png)
-
-
