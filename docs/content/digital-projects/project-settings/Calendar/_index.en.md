@@ -2,7 +2,7 @@
 title: "How to modify a Project Basic Calendar?"
 date: 2023-08-17T11:02:05+06:00
 lastmod: 2023-08-17T11:02:05+06:00
-weight: 7
+weight: 2
 draft: false
 # search related keywords
 keywords: ["induct", "instate","Project Basic Details"]
