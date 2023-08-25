@@ -22,7 +22,7 @@ To proceed, launch the desired project by selecting it.
 ![2-home-launchpad-execution-logs](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/2-home-launchpad-execution-logs.png)
 
 <li>
-Within the Digital labs dropdown, locate and choose "Test Cockpit." Once the user click on "Test Cockpit," they will be redirected to the "Test Catalog."
+Within the Digital labs dropdown, locate and choose "Test Cockpit." Once the user clicks on "Test Cockpit," they will be redirected to the "Test Catalog."
 </li>
 
 ![3-click-test-cockpit-digital-labs-execution-logs](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/3-click-test-cockpit-digital-labs-execution-logs.png)
