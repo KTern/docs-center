@@ -1,7 +1,7 @@
 ---
 title: "How is project progress calculated in KTern.AI?"
-date: 2023-05-09T11:02:05+06:00
-lastmod: 22023-08-29T11:02:05+06:00
+date: 2023-09-29T11:02:05+06:00
+lastmod: 22023-09-29T11:02:05+06:00
 weight: 4
 draft: false
 # search related keywords
