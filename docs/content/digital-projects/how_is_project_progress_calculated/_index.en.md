@@ -26,7 +26,6 @@ In KTern’s Transformation Hub, you can monitor the progress of your projects u
 
 #### Method: - 
 Total tasks count is determined. Total approved tasks count is determined. Project progress is calculated using the formula: 
-
 <br>
 
 (Total Approved Tasks / Total Tasks) * 100
