@@ -42,6 +42,7 @@ For each task in the project plan workbook, users are asked to provide planned w
 
 Project progress is calculated by aggregating the actual weightage for all tasks and dividing it by the planned weightage: 
 <br>
+
 (Sum of Actual Weightage / Sum of Planned Weightage) * 100
 
 
@@ -56,4 +57,5 @@ For each task in the project plan workbook, users are asked to provide planned M
 
 Project progress is calculated by aggregating the actual Milestone (%) values for all tasks and dividing it by the sum of planned Milestone (%) values: 
 <br>
+
 (Sum of Actual Milestones / Sum of Planned Milestones) * 100
