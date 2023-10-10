@@ -1,34 +1,86 @@
 ---
 title: "Get Started"
-date: 2022-01-15T11:02:05+06:00
+date: 2023-10-10T10:02:05+06:00
 icon: "ti-panel"
 description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
 type : "docs"
 ---
 
+#### Accessing KTern:
 
-## Sign in
+The user should open their web browser and navigate to the KTern application.
 
-1. Sign in to KTern Application with your email-password / using your outlook account
+![1-login-page](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/1-login-page.png)
 
-   ![Login Screen](https://storage.googleapis.com/ktern-public-files/product-documentation/login-screen.png)
+To log in to KTern, the user must have signed up previously. If the user hasn't, an error message will appear 
+when attempting to log in, stating "Couldn't find the KTern account."
 
-## Forgot Password?
+![2-user-not-found](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/2-user-not-found.png)
 
-1. In case you have forgotten the password, click on “Forgot your password?” to reset your password
+Users cannot directly sign up for KTern unless they've been invited to a project.
 
-   ![Forgot Password](https://storage.googleapis.com/ktern-public-files/product-documentation/forgot-password.png)
+#### Accepting an Invitation:
 
-2. Enter your mail address and click on “Send Link”. KTern will send a password rest link to your email
+If the user receives an invitation email to join a project in KTern, they should click the "Join KTern" button.
 
-   ![Forgot Password](https://storage.googleapis.com/ktern-public-files/product-documentation/forgot-password-1.png)
+![3-invitation-mail](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/3-invitation-mail.png)
 
-3. Once you receive the reset password link, click on “Reset Password” to reset the password of your account
+The user will be taken to the project welcome page, where they need to provide basic details such as their 
+full name, email id (usually auto-filled), password, and confirm password.
 
-   ![Forgot Password](https://storage.googleapis.com/ktern-public-files/product-documentation/forgot-password-2.png)
+![5-project-welcome-page](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/5-project-welcome-page.png)
 
-4. KTern will redirect you “Reset Password” page. Enter your new password and click on “Reset Password”.
+![6-project-welcome-page](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/6-project-welcome-page.png)
 
-   ![Reset Password](https://storage.googleapis.com/ktern-public-files/product-documentation/reset-password.png)
+After submitting, a pop-up message will confirm the successful registration of the user's account in KTern.
 
-5. Once the reset password is successful, Login with your registered email address and new password
+![7-user-account-registration](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/7-user-account-registration.png)
+
+#### Logging In:
+
+Now, the user can log in using their credentials.
+
+![8-user-log-in](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/8-user-log-in.png)
+
+The user will need to accept the terms and conditions by checking two checkboxes and clicking "Accept and 
+Continue."
+
+![9-i-terms-and-conditions](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/9-i-terms-and-conditions.png)
+
+![9-ii-terms-and-conditions](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/9-ii-terms-and-conditions.png)
+
+ Users will then be able to access the project they're a part of in the "Home - Project Launchpad."
+
+ ![10-home-project-launchpad](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/10-home-project-launchpad.png)
+
+#### Resetting the Password:
+
+If the user forgets their password, they should click "Forgot their password" on the login page.
+
+![11-forgot-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/11-forgot-password.png)
+
+Provide the email address used for KTern to receive a password reset link.
+
+![12-i-link-for-forgot-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/12-i-link-for-forgot-password.png)
+
+![12-ii-link-for-forgot-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/12-ii-link-for-forgot-password.png)
+
+Check the email inbox for a message from info@ktern.com and click the "Reset Password" button.
+
+![13-reset-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/13-reset-password.png)
+
+The user will be redirected to a page where they can create a new password.
+
+![14-new-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/14-new-password.png)
+
+After clicking "Reset Password," the user will be automatically taken to the login page.
+
+![15-created-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/15-created-password.png)
+
+Enter the email address and new password to log in.
+
+![16-login-with-new-password](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/16-login-with-new-password.png)
+
+The user can now access KTern, view their projects, and continue their journey within the KTern platform
+
+![17-home-launchpad](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/17-home-launchpad.png)

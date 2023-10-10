@@ -2,7 +2,7 @@
 title: "Connecting KTern.AI to a SAP System"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
-weight: 3
+weight: 5
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
