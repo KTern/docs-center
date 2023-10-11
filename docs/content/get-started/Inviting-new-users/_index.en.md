@@ -1,8 +1,8 @@
 ---
 title: "Inviting a user to KTern"
-date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 4
+date: 202-01-15T11:02:05+06:00
+lastmod: 2023-10-11T11:02:05+06:00
+weight: 3
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]

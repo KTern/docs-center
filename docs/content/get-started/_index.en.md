@@ -49,9 +49,9 @@ Continue."
 
 ![9-ii-terms-and-conditions](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/9-ii-terms-and-conditions.png)
 
- Users will then be able to access the project they're a part of in the "Home - Project Launchpad."
+Users will then be able to access the project they're a part of in the "Home - Project Launchpad."
 
- ![10-home-project-launchpad](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/10-home-project-launchpad.png)
+![10-home-project-launchpad](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Projects/10-home-project-launchpad.png)
 
 #### Resetting the Password:
 
