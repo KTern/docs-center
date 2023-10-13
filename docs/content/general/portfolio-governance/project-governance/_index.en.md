@@ -9,14 +9,16 @@ keywords: ["portfolio", "governance","projects"]
 ---
 **Overview:** 
 To govern the project using portfolio governance in KTern.
-i)	Click on the drop down and select the desired portfolio.
+1. Click on the drop down and select the desired portfolio.
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/dropdown.png)
 
-ii) After selecting desired portfolio and select the project and it's module.
-iii) KTern provides several KPIs to help govern the project on a daily basis:
+2. After selecting desired portfolio and select the project and it's module.
+3. KTern provides several KPIs to help govern the project on a daily basis:
 
     a) Portfolio Highlights: This KPI offers an overview of the project, including general details, analytical representations of issues and risks based on their status, and an assessment of overall project progress completion. It provides a high-level summary of the portfolio's health.
+
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/portfolio-highlights.png)
+
     b)	Portfolio Milestones: This KPI provides a list of milestones for all projects within the selected portfolio. It allows users to see all milestones, completed milestones, and upcoming milestones. Monitoring milestones is crucial for tracking project progress.
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/portfolio-milestone.png)
     c)	Project Summary: This KPI offers a detailed summary of a specific project within the portfolio. It includes analytical dashboards on various aspects, such as task status, upcoming tasks, issues, test case insights, and signoffs based on sign-off groups. This detailed view will help the managers to make calculated decisions.
@@ -32,6 +34,6 @@ iii) KTern provides several KPIs to help govern the project on a daily basis:
     h)	Testing Trail: This KPI offers a summary of testing-related metrics, such as test cases, overdue test cases, overall test coverage, issue coverage by status, and pending test cases by assignee. Effective testing is essential for ensuring project quality.
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/testing-trail.png)
 
-    By using these KPIs and reports within KTern, project managers and stakeholders can actively govern and manage projects, ensuring that they stay on track, address issues, and meet their objectives. It's important to customize and adapt these features to suit your specific project management needs and objectives.
+By using these KPIs and reports within KTern, project managers and stakeholders can actively govern and manage projects, ensuring that they stay on track, address issues, and meet their objectives. It's important to customize and adapt these features to suit your specific project management needs and objectives.
 
 
