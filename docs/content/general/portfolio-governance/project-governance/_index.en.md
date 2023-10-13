@@ -18,7 +18,6 @@ To govern the project using portfolio governance in KTern.
     a) Portfolio Highlights: This KPI offers an overview of the project, including general details, analytical representations of issues and risks based on their status, and an assessment of overall project progress completion. It provides a high-level summary of the portfolio's health.
 
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/portfolio-highlights.png)
-
     b)	Portfolio Milestones: This KPI provides a list of milestones for all projects within the selected portfolio. It allows users to see all milestones, completed milestones, and upcoming milestones. Monitoring milestones is crucial for tracking project progress.
 
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/portfolio-milestone.png)
