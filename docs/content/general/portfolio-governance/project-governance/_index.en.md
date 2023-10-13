@@ -8,7 +8,9 @@ draft: false
 keywords: ["portfolio", "governance","projects"]
 ---
 **Overview:** 
-To govern the project using portfolio governance in KTern.
+Portfolio governance is a structured approach to managing a collection of projects and initiatives within an organization to ensure alignment with strategic objectives, optimize resource allocation, and monitor performance. It involves establishment of processes, and controls to effectively govern a portfolio of projects or programs.
+
+To govern the projects and business using KTern.Ai
 1. Click on the drop down and select the desired portfolio.
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/dropdown.png)
 
