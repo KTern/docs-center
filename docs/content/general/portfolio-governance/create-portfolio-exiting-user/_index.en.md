@@ -11,6 +11,7 @@ keywords: ["portfolio", "governance","projects",]
 If you're an existing user, you're in the right place. We'll walk you through the steps to create your portfolio efficiently. Let's get started."
 
 1. After login to app.ktern.com, you will be navigated to home page. Toggle to “My Portfolios”.
+
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/home-page.png).
 2. Create Portfolio: Click on launch and you will be navigated to the portfolio dashboard, and then click on "Create Portfolio" option.
 
