@@ -17,9 +17,9 @@ If you're an existing user, you're in the right place. We'll walk you through th
 3. Fill in the Form: 
 <ol>
     <ul>
-        <li><strong>Name</strong>: Enter the name of the portfolio. This is typically a descriptive name that helps you and others easily identify the portfolio.</li>
-        <li><strong>Projects Linked</strong>: Select the projects that you want to link to this portfolio. You can do this by clicking on the field, which should open a dropdown menu. Choose the projects you want to associate with this portfolio.</li>
-        <li><strong>User Access</strong>: Specify the users who should have access to this portfolio. You can provide access to users by mentioning their email addresses.</li>
+        <li><b>Name</b>: Enter the name of the portfolio. This is typically a descriptive name that helps you and others easily identify the portfolio.</li>
+        <li><b>Projects Linked</b>: Select the projects that you want to link to this portfolio. You can do this by clicking on the field, which should open a dropdown menu. Choose the projects you want to associate with this portfolio.</li>
+        <li><b>User Access</b>: Specify the users who should have access to this portfolio. You can provide access to users by mentioning their email addresses.</li>
     </ul>
 </ol>
 
