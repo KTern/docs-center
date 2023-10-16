@@ -25,6 +25,6 @@ If you're an existing user, you're in the right place. We'll walk you through th
     </ul>
 </ol>
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/create.png).
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/form.png).
 4.  Click on "Create Button", and your portfolio is created successfully.
 
