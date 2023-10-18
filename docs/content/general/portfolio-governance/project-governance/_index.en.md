@@ -33,7 +33,7 @@ To govern the projects and business using KTern.Ai
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-summary.png)
      d)	Project Pulse: This KPI provides a summary of a particular project, including start and end dates, total tasks, milestones, and signoffs. It gives you a quick snapshot of the project's current status.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-pulse.png)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-pulse.PNG)
     e)	Task Performance: This KPI helps you understand task-related metrics, including the total number of tasks, overdue tasks, task items, and resource utilization for the respective project. Effective task management is critical for project success.
 
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/task-performance.png)
