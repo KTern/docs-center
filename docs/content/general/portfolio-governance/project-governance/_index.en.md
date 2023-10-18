@@ -17,7 +17,6 @@ To govern the projects and business using KTern.Ai
 2. After selecting desired portfolio and select the project.
 
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/projects-dropdown.PNG)
-
 3. Now select your respective module from the dropdown.
 
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-modules.PNG)
