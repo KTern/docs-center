@@ -36,16 +36,16 @@ To govern the projects and business using KTern.Ai
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-pulse.PNG)
     e)	Task Performance: This KPI helps you understand task-related metrics, including the total number of tasks, overdue tasks, task items, and resource utilization for the respective project. Effective task management is critical for project success.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/task-performance.png)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/task-performance.PNG)
     f)	GSI Insights: This KPI assists in understanding process-related metrics, such as process items assigned to process owners, GSI (Global System Integrator) items by process level, and process item status. It helps in managing process-related aspects of the project.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/GSI-insights.png)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/GSI-insights.PNG)
     g)	Signoff Trail: This KPI provides a summary of signoffs, including total signoffs, overdue signoffs, total approvals, total rejections, and resource-based status for each project and its Line of Business (LOB). Signoffs are important for project approvals and progress tracking.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/signoff-trail.png)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/signoff-trail.PNG)
     h)	Testing Trail: This KPI offers a summary of testing-related metrics, such as test cases, overdue test cases, overall test coverage, issue coverage by status, and pending test cases by assignee. Effective testing is essential for ensuring project quality.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/testing-trail.png)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/testing-trail.PNG)
 4. By using the KPIs and reports within KTern, project managers and stakeholders can actively govern and manage projects, ensuring that they stay on track, address issues, and meet their objectives. It's important to customize and adapt these features to suit your specific project management needs and objectives.
 
 
