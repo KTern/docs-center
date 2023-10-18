@@ -12,10 +12,10 @@ If you're an existing user, you're in the right place. We'll walk you through th
 
 1. After login to app.ktern.com, you will be navigated to home page. Toggle to “My Portfolios”.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/home-page-eu.png).
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/home-page-eu.png)
 2. Create Portfolio: Click on launch and you will be navigated to the portfolio dashboard, and then click on "Create Portfolio" option.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/create-eu.png).
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/create-eu.png)
 3. Fill in the Form: 
 <ol>
     <ul>
@@ -25,8 +25,8 @@ If you're an existing user, you're in the right place. We'll walk you through th
     </ul>
 </ol>
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/form-eu.png).
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/form-eu.png)
 4. Fill form with the necessary information, save portfolio by clicking on "Create" button.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/create-success-eu.png).
-5. You portfolio is creted successfully.
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/create-success-eu.png)
+5. You portfolio is created successfully.
