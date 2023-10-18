@@ -26,10 +26,10 @@ To govern the projects and business using KTern.Ai
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/portfolio-highlights.PNG)
     b)	Portfolio Milestones: This KPI provides a list of milestones for all projects within the selected portfolio. It allows users to see all milestones, completed milestones, and upcoming milestones. Monitoring milestones is crucial for tracking project progress.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/portfolio-milestone.PNG)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/portfolio-milestone.png)
     c)	Project Summary: This KPI offers a detailed summary of a specific project within the portfolio. It includes analytical dashboards on various aspects, such as task status, upcoming tasks, issues, test case insights, and signoffs based on sign-off groups. This detailed view will help the managers to make calculated decisions.
 
-![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-summary.PNG)
+![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-summary.png)
      d)	Project Pulse: This KPI provides a summary of a particular project, including start and end dates, total tasks, milestones, and signoffs. It gives you a quick snapshot of the project's current status.
 
 ![Project_Governance](https://storage.googleapis.com/ktern-public-files/product-documentation/General/project-pulse.PNG)
