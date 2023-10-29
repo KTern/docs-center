@@ -2,7 +2,7 @@
 title: "How to manage dependencies in Simulation?"
 date: 2021-05-23T11:02:05+06:00
 lastmod: 2021-05-23T11:02:05+06:00
-weight: 27
+weight: 28
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
