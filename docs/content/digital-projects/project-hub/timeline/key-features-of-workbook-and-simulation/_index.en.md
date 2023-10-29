@@ -1,5 +1,5 @@
 ---
-title: "Key features of Workbook and Simulation?"
+title: "Key features of Workbook and Simulation"
 date: 2023-10-23T11:02:05+06:00
 lastmod: 2023-10-23T11:02:05+06:00
 weight: 27
