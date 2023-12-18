@@ -136,5 +136,6 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 
 ### Additional Help
 
-[Click me](http://www.example.com){:target="_blank"}
+1.[Click me](http://www.example.com){:target="_blank"}
 
+2.[Click me](http://www.example.com){:target="_blank"}
