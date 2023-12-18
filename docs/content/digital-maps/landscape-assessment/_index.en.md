@@ -141,5 +141,5 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 </div>
 
 <div class="alert alert-info">
-  <a href="https://support.ktern.com/portal/en/kb/articles/how-does-ktern-manages-the-resources-in-the-existing-sap-ecc-system">How does KTern manages the resources in the existing SAP ECC system?</a>.
+  <a href="https://support.ktern.com/portal/en/kb/articles/how-does-ktern-manages-the-resources-in-the-existing-sap-ecc-system">How does KTern manages the resources in the existing SAP ECC system?</a>
 </div>

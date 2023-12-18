@@ -2,7 +2,7 @@
 title: "Creating an Issue"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2023-08-01T11:02:05+06:00
-weight: 6
+weight: 0
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
