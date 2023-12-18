@@ -1,4 +1,4 @@
----
+<!-- ---
 # title: "How to track my day-to-day activities?"
 # date: 2023-05-09T11:02:05+06:00
 # lastmod: 22023-08-01T11:02:05+06:00
@@ -152,4 +152,4 @@ If any project user in KTern has tagged or mentioned a user’s name in any comm
 
 ![25-my-workspace-mentions1](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/25-my-workspace-mentions1.png)
 
-![26-my-workspace-mentions2](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/26-my-workspace-mentions2.png)
+![26-my-workspace-mentions2](https://storage.googleapis.com/ktern-public-files/product-documentation/My%20workspace/26-my-workspace-mentions2.png) -->

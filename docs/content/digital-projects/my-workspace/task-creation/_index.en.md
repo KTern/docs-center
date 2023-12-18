@@ -1,4 +1,4 @@
----
+<!-- ---
 title: "Creating a Task"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2023-08-01T11:02:05+06:00
@@ -64,4 +64,4 @@ To create a task in KTern.AI, perform the following operation:
 8. On filling the fields, the Submit button on the top right corner will be enabled. You can click on Submit button to create a new task.
 
 9. If the task is created successfully, you can see the toaster below:
-   ![](https://storage.googleapis.com/ktern-docs-files/create-task-6.png)
+   ![](https://storage.googleapis.com/ktern-docs-files/create-task-6.png) -->
