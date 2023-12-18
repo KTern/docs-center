@@ -137,6 +137,9 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 ### Additional Help
 
 <div class="alert alert-info">
-  <a href="https://support.ktern.com/portal/en/kb/articles/how-does-ktern-assist-in-identifying-license-optimization-opportunities-during-the-s-4hana-transformation">How does KTern assist in identifying license optimization opportunities during the S/4HANA transformation?</a>.
+  <a href="https://support.ktern.com/portal/en/kb/articles/how-does-ktern-assist-in-identifying-license-optimization-opportunities-during-the-s-4hana-transformation">How does KTern assist in identifying license optimization opportunities during the S/4HANA transformation?</a>
 </div>
 
+<div class="alert alert-info">
+  <a href="https://support.ktern.com/portal/en/kb/articles/how-does-ktern-manages-the-resources-in-the-existing-sap-ecc-system">How does KTern manages the resources in the existing SAP ECC system?</a>.
+</div>
