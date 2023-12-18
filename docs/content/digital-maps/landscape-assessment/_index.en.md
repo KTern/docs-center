@@ -135,10 +135,6 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 ![](https://storage.googleapis.com/ktern-docs-files/landscape-11.png)
 
 ### Additional Help
-<div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'>
-<span>
-<p style='margin-left:1em;'>
+
 [Click me](http://www.example.com){:target="_blank"}
-</p>
-</span>
-</div>
+
