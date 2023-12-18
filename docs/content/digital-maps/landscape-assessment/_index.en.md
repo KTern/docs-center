@@ -138,7 +138,7 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 <div class="warning" style='background-color:#E9D8FD; color: #69337A; border-left: solid #805AD5 4px; border-radius: 4px; padding:0.7em;'>
 <span>
 <p style='margin-left:1em;'>
-[How to optimize license?](https://support.ktern.com/portal/en/kb/articles/how-does-ktern-assist-in-identifying-license-optimization-opportunities-during-the-s-4hana-transformation)
+[Click me](http://www.example.com){:target="_blank"}
 </p>
 </span>
 </div>
