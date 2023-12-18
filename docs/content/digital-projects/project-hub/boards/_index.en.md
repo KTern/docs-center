@@ -2,7 +2,7 @@
 title: "Boards"
 date: 2023-05-17T11:02:05+06:00
 lastmod: 2023-08-01T11:02:05+06:00
-weight: 10
+weight: 2
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
@@ -34,27 +34,35 @@ keywords: ["induct", "instate"]
     </li>
 </ul>
 
+<div class="alert alert-info">
+  <a href="https://ktern.com/documentation/digital-projects/boards/features-of-digital-boards/"> Features of Digital Boards</a>
+</div>
+
 ### Types of Boards
 
 In Digital Projects, the following are the three types of boards: 
 
-(i). Active Boards <br>
-(ii). C & C Boards <br>
-(iii). Custom Boards <br>
+1. Active Boards <br>
+2. C & C Boards <br>
+3. Custom Boards <br>
 
 Let's look in detail about these three different types of boards.
 
-**(i). Active Boards:** "Active Boards" refers to the  boards that are currently active. 
+**1. Active Boards:** "Active Boards" refers to the  boards that are currently active. 
 
 ![2-Active-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/2-Active-Boards.png)
 
-**(ii). C & C Boards:** The acronym "C & C Boards" represents the "Clone and Create Board." The C & C Boards contain all the boards along with the process activities that have been created through Clone and Create. Users have the option to <b>search</b> and <b>access</b> their respective boards through either <b>project work items name</b> or by <b>process GSI</b> such as manufacturing, asset management, sourcing and procurement in SAP have dedicated boards for easy viewing.
+**2. C & C Boards:** The acronym "C & C Boards" represents the "Clone and Create Board." The C & C Boards contain all the boards along with the process activities that have been created through Clone and Create. Users have the option to <b>search</b> and <b>access</b> their respective boards through either <b>project work items name</b> or by <b>process GSI</b> such as manufacturing, asset management, sourcing and procurement in SAP have dedicated boards for easy viewing.
 
 ![3-C-&-C-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/3-C-&-C-Boards.png)
 
-**(iii). Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own governance. The tasks within these boards are independent and will not be reflected in the project plan.
+**3. Custom Boards:** : "Custom Boards" refers to personalized and tailored boards created by the user for their own governance. The tasks within these boards are independent and will not be reflected in the project plan.
 
 ![4-Custom-Boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/4-Custom-Boards.png)
+
+<div class="alert alert-info">
+  <a href="https://ktern.com/documentation/digital-projects/boards/custom-boards/create-custom-board-and-task/">How to create Custom Boards and tasks?</a>
+</div>
 
 ### Benefits of Boards
 <ul>
@@ -99,3 +107,21 @@ It empowers teams to maintain a consistent structure and predefined workflows,le
 **Real-Time Visibility:** Digital Boards offer real-time updates on project progress, enabling stakeholders to have a comprehensive overview of the project's status. This visibility helps in identifying bottlenecks, tracking milestones, and making timely adjustments.
 </li>
 </ul>
+
+### Frequently Asked Questions(FAQs)
+
+<div class="alert alert-info">
+  <a href="https://ktern.com/documentation/digital-projects/boards/how-to-manage-process-actvities/search-desired-board/">How to search the desired board ?</a>
+</div>
+
+<div class="alert alert-info">
+  <a href="https://ktern.com/documentation/digital-projects/boards/how-to-manage-process-actvities/track-process-activity/">How to manage the process activity using boards ?</a>
+</div>  
+
+<div class="alert alert-info">
+  <a href="https://ktern.com/documentation/digital-projects/boards/how-to-govern-process-activties/">How to govern the process activities using boards ?</a>
+</div>  
+
+<div class="alert alert-info">
+  <a href="https://ktern.com/documentation/digital-projects/boards/features-of-digital-boards/"> Features of Digital Boards</a>
+</div>
