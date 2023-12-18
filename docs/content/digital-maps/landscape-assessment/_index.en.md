@@ -136,6 +136,7 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 
 ### Additional Help
 
-1.[Click me](http://www.example.com){:target="_blank"}
+[`Asset Identification`](https://www.example.com/my%20great%20page)
 
-2.[Click me](http://www.example.com){:target="_blank"}
+<a href="https://support.ktern.com/portal/en/kb/articles/how-does-ktern-assist-in-identifying-license-optimization-opportunities-during-the-s-4hana-transformation">Asset Identification</a>
+
