@@ -1,11 +1,11 @@
 ---
-title: "How to track my day-to-day activities?"
-date: 2023-05-09T11:02:05+06:00
-lastmod: 22023-08-01T11:02:05+06:00
-# weight: 0
-draft: false
-# search related keywords
-keywords: ["induct", "instate"]
+# title: "How to track my day-to-day activities?"
+# date: 2023-05-09T11:02:05+06:00
+# lastmod: 22023-08-01T11:02:05+06:00
+# # weight: 0
+# draft: false
+# # search related keywords
+# keywords: ["induct", "instate"]
 ---
 
 ## Overview
