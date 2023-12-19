@@ -2,13 +2,13 @@
 title: "Signoffs"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2023-08-01T11:02:05+06:00
-weight: 4
+weight: 3
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
 
-### Overview
+#### Overview
 
 In KTern, signoffs refer to the process of reviewing and approving assets such as documents, procedures, policies and other types of content. Signoffs are used to ensure that the content is accurate, up-to-date, and compliant with organizational standards and requirements. 
 
@@ -66,3 +66,6 @@ In addition to the Signoff Hierarchy, there are two components to be considered 
       Enhancing transparency and traceability of files or assets. 
    </li>
 </ul>
+
+### Frequently Asked Questions (FAQs)
+
