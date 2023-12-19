@@ -1,5 +1,5 @@
 ---
-title: "Project Dashboard"
+title: "Dashboard"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2023-08-01T11:02:05+06:00
 weight: 1
@@ -19,6 +19,9 @@ The Dashboard has the following features:
 3. Resource utilization tracker
 4. Overdue alerts and risk insights
 5. SAP Project Management – Dashboard
+6. Smart Filters based on status,phase,workpackage,roles and teams
+7. Overdue data
+
 
 ![](https://storage.googleapis.com/ktern-docs-files/pd-2.png)
 
