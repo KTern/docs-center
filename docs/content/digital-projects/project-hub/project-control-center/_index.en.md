@@ -39,12 +39,15 @@ viii. Overview (Description about the Project)
 
 3. You can see the following Project charter information below
 
-   i. Executive Summary
-  ii. Overview
- iii. Risk Register
-  iv. Organization Structure
-   v. Files
-<ul>
+<ol type="i">
+<li>Executive Summary</li>
+<li>Overview</li>
+<li>Risk Register</li>
+<li>Organization Structure</li>
+<li>Files</li>
+<ol>
+
+<ol type="i">
 <li>
 
 **Executive Summary:** 
@@ -56,6 +59,6 @@ The executive summary encapsulates the project's business case, offering key ins
 **Overview:** 
 Users encounter three pivotal tabs. The first, labeled ***Overview*** sheds light on elements lying beyond the control of the Project Team, acting as constraints that may limit available options. This tab also accommodates assumptions and constraints, derived from the Discovery and Evaluation Phase, allowing for further development. Moving to the ***Scope*** tab, users gain insights into SAP solutions within scope, as well as a high-level depiction of the project's overall scope. Any out-of-scope areas mentioned in the order form find a place here. Finally, the ***Project KPIs*** section provides a snapshot of the project's key performance indicators, affording the option to add or edit these metrics. Together, these tabs furnish a detailed and comprehensive overview, covering external limitations, project scope, and crucial performance indicators within the "Overview" section.
 </li>
-</ul>
+</ol>
 
 
