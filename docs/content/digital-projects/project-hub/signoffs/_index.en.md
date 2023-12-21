@@ -69,3 +69,13 @@ In addition to the Signoff Hierarchy, there are two components to be considered 
 
 ### Frequently Asked Questions (FAQs)
 
+<div class="alert alert-info">
+  <a href="https://support.ktern.com/portal/en/kb/articles/how-can-i-add-files-against-my-sign-off#Introduction">How can I add files against Signoff</a>
+</div>
+
+
+
+
+
+
+

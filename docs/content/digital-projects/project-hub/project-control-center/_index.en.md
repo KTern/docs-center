@@ -1,5 +1,5 @@
 ---
-title: "Project Control Center"
+title: "Control Center"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2023-08-01T11:02:05+06:00
 weight: 2
@@ -59,6 +59,18 @@ The executive summary encapsulates the project's business case, offering key ins
 **Overview:** 
 Users encounter three pivotal tabs. The first, labeled ***Overview*** sheds light on elements lying beyond the control of the Project Team, acting as constraints that may limit available options. This tab also accommodates assumptions and constraints, derived from the Discovery and Evaluation Phase, allowing for further development. Moving to the ***Scope*** tab, users gain insights into SAP solutions within scope, as well as a high-level depiction of the project's overall scope. Any out-of-scope areas mentioned in the order form find a place here. Finally, the ***Project KPIs*** section provides a snapshot of the project's key performance indicators, affording the option to add or edit these metrics. Together, these tabs furnish a detailed and comprehensive overview, covering external limitations, project scope, and crucial performance indicators within the "Overview" section.
 </li>
+
+<li>
+
+**Risk Register**
+The Risk and Response Log is used by the project team to document the description and assessment of risks and to offer action plans to respond to risks. The Risk and Response Log provides a reference for the project team and supports their need to be apprised of and evaluate the risks. (A risk is an uncertain event or condition, which if it occurs, has a positive or negative affect on a project’s objectives).
+</li>
+
+<li>
+
+**Organization Structure**
+ Project organization provides an overview of the defined project structure, assignment of personnel, and a high-level definition of roles and responsibilities for all the team members within the project structure.
+ </li>
 </ol>
 
 
