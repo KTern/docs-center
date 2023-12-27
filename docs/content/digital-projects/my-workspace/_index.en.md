@@ -19,3 +19,4 @@ As of the latest release, the User can view the seven widgets such as
 
 ![](https://storage.googleapis.com/ktern-docs-files/my-workspace-dashboard.PNG)
 
+
