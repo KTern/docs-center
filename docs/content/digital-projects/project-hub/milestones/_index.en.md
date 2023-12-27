@@ -27,7 +27,7 @@ To create a Project Milestone, perform the following steps:
 
 5. Fill the form as recommended below:
 
-   1. **Milestone Name:** Enter the milestone name. Milestone name should be short.
+   <!-- 1. **Milestone Name:** Enter the milestone name. Milestone name should be short.
 
    2. **Description:** Enter the description about the Milestone.
 
@@ -37,7 +37,8 @@ To create a Project Milestone, perform the following steps:
 
    5. **Planned Date:** Choose the deadline for the milestone
 
-   6. **Billing Milestone:** Choose whether the milestone is billing milestone or not. If chosen ‘yes’, the user need to enter Billing Amount, value in %, and Budget status.
+   6. **Billing Milestone:** Choose whether the milestone is billing milestone or not. If chosen ‘yes’, the user need to enter Billing Amount, value in %, and Budget status. -->
+
 
 6. On clicking submit button, the new milestone will be created.
 
