@@ -21,11 +21,11 @@ As of the latest release, the User can view the seven widgets such as
 
    ![](https://storage.googleapis.com/ktern-docs-files/my-workspace-2.png) -->
 
-2. **My Work Items:** The User can view the total number of tasks, issues and test cases assigned to them with the status of those work items. The User can filter the work items based on 'Created by me', 'Assigned to me', and 'Involved as Participant'.
+1. **My Work Items:** The User can view the total number of tasks, issues and test cases assigned to them with the status of those work items. The User can filter the work items based on 'Created by me', 'Assigned to me', and 'Involved as Participant'.
 
-![](https://storage.googleapis.com/ktern-docs-files/my-workspace-3.png)
+![](https://storage.googleapis.com/ktern-docs-files/my-workspace-dashboard.PNG)
 
-3. **My Work Items List:** The User can view the list of tasks, issues and test cases assigned to them with the status of those work items. The User can filter the work items based on 'Created by me', 'Assigned to me', and 'Involved as Participant'.
+<!-- 3. **My Work Items List:** The User can view the list of tasks, issues and test cases assigned to them with the status of those work items. The User can filter the work items based on 'Created by me', 'Assigned to me', and 'Involved as Participant'.
 
 ![](https://storage.googleapis.com/ktern-docs-files/my-workspace-4.png)
 
@@ -43,4 +43,4 @@ As of the latest release, the User can view the seven widgets such as
 
 8. **My Work Item Tracker:** This widget gives an interactive chart where the user can view the Planned vs Actual work items completed to view the linear growth of his performance in Project.
 
-![](https://storage.googleapis.com/ktern-docs-files/my-workspace-7.png)
+![](https://storage.googleapis.com/ktern-docs-files/my-workspace-7.png) -->
