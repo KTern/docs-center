@@ -12,7 +12,7 @@ keywords: ["induct", "instate"]
 
 The main use of “clone and create” is to create process activities by linking the project plan and GSI. This helps with a reduction in time consumption on creating tasks with redundant names under each phase. This allows the user to create tasks with unique names, rather than duplicating the tasks with the same set of names, under different phases.
 
-## How to Create Process Activities using Clone and Create
+## Create Process Activities using Clone and Create
 
 ![clone-create-landing-page](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-landing-page.png)
 
@@ -22,7 +22,7 @@ In the Project Hub, the user should get into the Clone and Create page. Here, th
 2.	Select Simulation Template
 3.	Update Simulated Items
 
-### STEP 1: Select Items
+### 1.Select Items
 
 #### i. Click Link Item A
    
@@ -62,7 +62,7 @@ Choose any of the work items as done for linking the Item A.
 
 ![clone-create-selectitems-usage](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-selectitems-usage.png)
 
-### STEP 2: Select Simulation Template
+### 2.Select Simulation Template
 
 In the below templates, the user can choose their required template or create a new template. 
 
@@ -92,7 +92,7 @@ As shown in the below image, if a user could view the newly created template nam
 
 ![clone-create-simulation-template-newtemplate-step5](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-simulation-template-newtemplate-step5.png)
 
-### STEP 3: Update Simulated Items
+### 3.Update Simulated Items
 
 ![clone-create-update-simulated-items](https://storage.googleapis.com/ktern-public-files/product-documentation/Clone%20and%20Create/clone-create-update%20simulated%20items.png)
 
