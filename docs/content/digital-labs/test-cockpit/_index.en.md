@@ -1,28 +1,22 @@
 ---
 title: "Test Cockpit"
-date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 2
+date: 2024-01-19T11:02:05+06:00
+lastmod: 2024-01-19T11:02:05+06:00
+weight: 3
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
 
+1. Upon launching KTern's Digital Labs, click on the Test Suite Cockpit to access it.
 
-Upon launching the Digital Labs of KTern, you will be taken to the Test Suite Cockpit. It contains three sub-sections: Test Catalog, Auto Recommendations and Auto Import. It also includes the Test Suite Dashboard and the Sign-Off Wizard.
+2. It contains two sub-sections: 
 
-### Test Catalog
+        i. Test Catalog  
+        ii. Test Insights 
+    
+3. It also provides navigation options to the following sections: 
 
-The test catalog contains the universal list of all the test plans, test scenarios and test cases. It acts as a launchpad from where you can execute the various test cases. The Test Catalog contains the test plans, test scenarios, and the test cases in a hierarchical manner. Each plan can have “n” scenarios under it which in turn can contain “n” test cases. Each of the plan, scenario and test case has a description, related module, testing type and priority assigned adjacent to it.
+        i. Test Suite Dashboard  ii. Sign-Off Wizard
 
-![](https://storage.googleapis.com/ktern-docs-files/test-cockpit-1.png)
-
-### Navigating Test Catalogue
-
-To view the test catalogue, perform the following steps:
-
-1. Go to Modules Kernel in the App Sidebar. Launch Digital Labs.
-2. You will be redirected to Test Catalog screen.
-3. You shall see the tree structure of test cases in Test Catalog Screen. In the tree, first level node corresponds to Test Plan. Second level node corresponds to Test Scenario. Third level nodes corresponds to Test Cases.
-
-![](https://storage.googleapis.com/ktern-docs-files/test-cockpit-2.png)
+![2_test_cockpit_digital_labs](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/2_test_cockpit_digital_labs.png)
