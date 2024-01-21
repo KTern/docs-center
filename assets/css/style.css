@@ -1114,6 +1114,12 @@ pre code::-webkit-scrollbar-thumb {
   -webkit-text-fill-color: transparent;
 }
 
+.hanapedia-card {
+  background: -webkit-linear-gradient(135deg, #FF69B4 0%, #800080 50%, #FFD700 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
 .card {
   border-radius: 4px;
   background: #fff;

@@ -7,7 +7,10 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
+<div style='text-align: justify;'>
 
 Test Condition is the specification that a tester must follow for testing an Application.
 
 ![4_flowchart_digital_labs](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Labs/4_flowchart_digital_labs.png)
+
+</div>
