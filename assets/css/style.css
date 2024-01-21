@@ -969,6 +969,13 @@ pre code::-webkit-scrollbar-thumb {
   }
 }
 
+/* Add standard background-clip property with vendor prefixes */
+.guideCard:nth-child(2):before,
+.guideCard:nth-child(3):before,
+.guideCard:nth-child(4):before {
+  background-clip: padding-box;
+}
+
 .guideCard:nth-child(2):before {
   background-image: url(https://luna1.co/8feb7e.png)
 }
@@ -1110,6 +1117,12 @@ pre code::-webkit-scrollbar-thumb {
 
 .mines-card {
   background:-webkit-linear-gradient(135deg, #F5515F 0%, #A1051D 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.hanapedia-card {
+  background: -webkit-linear-gradient(135deg, #FF69B4 0%, #800080 50%, #FFD700 100%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
