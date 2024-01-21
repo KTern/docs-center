@@ -973,6 +973,7 @@ pre code::-webkit-scrollbar-thumb {
 .guideCard:nth-child(2):before,
 .guideCard:nth-child(3):before,
 .guideCard:nth-child(4):before {
+  -webkit-background-clip: padding-box;
   background-clip: padding-box;
 }
 
