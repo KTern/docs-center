@@ -8,6 +8,7 @@ draft: false
 description: "Digital Boards is a collection of project activities displayed in the form of cards, which helps to comment and update activities more easily"
 type : "docs"
 ---
+<div style='text-align: justify;'>
 
 <ul>
 <li>
@@ -184,3 +185,5 @@ User can <b>delete a board</b> any numbers of time, by clicking the “delete”
 </ul>
 
 ![19f-custom-boards-delete-board-or-task](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/19f-custom-boards-delete-board-or-task.png)
+
+</div>

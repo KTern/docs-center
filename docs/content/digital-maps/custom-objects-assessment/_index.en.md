@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
+<div style='text-align: justify;'>
 
 Every organization is unique and has its own business process. SAP’s standard software cannot cover all the business processes completely. Therefore, to meet the individual requirements of organizations, the standard SAP software is customized or adapted to suit the business needs. You can enhance SAP’s standard software through custom objects.
 
@@ -84,3 +84,5 @@ Based on the information provided by KTern, you can plan your SAP S/4HANA system
 KTern’s AI-powered rule engine automatically calculates the impact score of a custom program based on its analysis parameters and the number of impact cases. For example, if the custom program has many impact cases and its equivalent functionality is not available in S/4HANA, then it is given a high impact score.
 
 KTern also provides the roadmap and effort for the S/4HANA system conversion based on the results from the custom code impact analysis.
+
+</div>

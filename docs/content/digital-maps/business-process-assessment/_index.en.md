@@ -1,13 +1,13 @@
 ---
 title: "Business Process Assessment"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
+lastmod: 2024-01-24T11:02:05+06:00
 weight: 2
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
+<div style='text-align: justify;'>
 
 Without a proper understanding of the landscape and the knowledge of how each of the processes is getting affected, it is literally impossible to build a proper digital transformation plan. That is why KTern performs the Business Process Assessment.
 
@@ -289,3 +289,5 @@ And, the best part is that no other contemporary product in the market offers Tr
 ### 4. Process – Tree View
 
 ![](https://storage.googleapis.com/ktern-docs-files/bpa-20.png)
+
+<div style='text-align: justify;'>

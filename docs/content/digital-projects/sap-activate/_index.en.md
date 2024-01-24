@@ -8,7 +8,6 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
-
 SAP recommends SAP Activate and the 893+ tasks which it covers, as the right methodology for ECC to S/4HANA migration/conversion. SAP Activate supports the use of add-ons and extensions developed by SAP partners and enables a coherent, integrated experience even if you are customizing SAP S/4HANA for specific business processes. It is a modular and agile framework which ensures a reliable SAP S/4HANA conversion and is the heart of KTern, the product designed to automate, manage, and accelerate the transition from ECC to S/4HANA from start to finish. In addition, KTern helps overcome different migration challenges.
 
 With SAP Activate methodology and KTern, you get a disciplined project management approach for SAP S/4HANA migration. The methodology aligns with best practices suggested by the Project Management Institute (PMI), assisting you to minimize risk, streamline and accelerate your project, and reduce the total cost of S/4HANA conversion. A standardized work breakdown structure encourages project managers to define and manage project work and concentrate on deliverables and outcomes. The methodology and in turn KTern, work based on the six phases of your migration project: discover, prepare, explore, realize, deploy, and run.

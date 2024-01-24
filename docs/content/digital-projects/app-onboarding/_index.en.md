@@ -7,6 +7,7 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
+<div style='text-align: justify;'>
 
 <ul>
 <li>
@@ -119,3 +120,5 @@ Finally, scroll up and select the "Create Transformation Project" button. After 
 </ul>
 
 ![21-create-transformation-project](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/21-create-transformation-project.png)
+
+</div>

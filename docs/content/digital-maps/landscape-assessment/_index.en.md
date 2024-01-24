@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
+<div style='text-align: justify;'>
 
 Landscape Assessment gives detailed information of the type of SAP system connected to KTern. It gives information such as the Database type, Operating System, ECC version, Processor type etc.
 
@@ -133,3 +133,5 @@ SAP Interfaces offer the possibility of connecting external systems to ECC. When
 #### 4. User types to be license
 
 ![](https://storage.googleapis.com/ktern-docs-files/landscape-11.png)
+
+</div>

@@ -8,3 +8,6 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
+1. Manage process Activities
+2. Search Process Activities
+3. Track Process Activities

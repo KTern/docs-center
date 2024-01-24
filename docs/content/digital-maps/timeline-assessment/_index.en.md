@@ -7,6 +7,7 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
+<div style='text-align: justify;'>
 
 ### Digital Maps - Timeline Assessment
 
@@ -49,3 +50,5 @@ KTern accurately estimates costs and resources to optimize the total cost of con
 ![](https://storage.googleapis.com/ktern-docs-files/ta-3.png)
 
 KTern accurately calculates the number of technical consultants, functional consultants, solution architects and project managers from both the system integrator side and the customer side. This feature, combined with the roadmap generator, is used to plan a smooth and risk-free transition to S/4HANA.
+
+</div>

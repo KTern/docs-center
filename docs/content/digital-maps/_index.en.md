@@ -5,11 +5,9 @@ icon: "ti-panel"
 description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
 type : "docs"
 ---
-
+<div style='text-align: justify;'>
 
 KTern’s Digital Maps connects to an ECC system and assess the entire landscape, thus enabling you to better understand the implications of a transition from existing ERP system to SAP S/4HANA. Digital Maps has five sub-parts:
-
-
 
 1. Landscape Assessment
 2. Business Process Assessment
@@ -35,3 +33,5 @@ There are several factors which you must consider before deciding to move to S/4
 1. Analysis of business process, landscape, custom process with the impact of the changes and simplifications of S/4HANA and optimization insights
 2. AS-IS and TO-BE simulation of the business processes aligned SAP scope items, SAP best practices and SAP Model Company
 3. Derivation of roadmap and effort for ERP transformation with TCO estimator, with risk predictor and resolution insights from inbuilt engine S4HANAPEDIA.AI
+
+</div>
