@@ -1,16 +1,18 @@
 ---
 title: "Digital Process"
-date: 2022-01-15T11:02:05+06:00
+date: 2024-01-22T11:02:05+06:00
 icon: "ti-panel"
 description: "Lorem ipsum dolor sit amet ipsum dolor sit amet ipsum dolor sit amet"
 type : "docs"
 ---
+<div style='text-align: justify;'>
 
 ## Overview
 
-The major features of KTern’s Digital Process are
+Digital Process is a comprehensive platform designed to drive effective SAP process orchestration with integrity and tribal knowledge. Leveraging the capabilities of the Process Intelligence Platform, it ensures the integrity of SAP processes while providing a knowledge base for streamlined operations.
 
-1. Streamlined tracking and monitoring of Business Process activation, implementation, and orchestration of the enterprise operations
-2. Analytical wizards for custom process profiling by objects, stakeholders, application, scope of optimization, impact and custom to standard process adaptation insights in S/4HANA
-3. Automated custom code remediation for pre-defined S/4HANA simplification scenarios with auto-learning potential of manual code correction
-4. Enablement advisory with automated training scenario and stakeholder recommendations in view of the process transformation
+## Introduction
+
+Digital Process offers a holistic approach to SAP process orchestration, focusing on process integrity, agility, and continuous value. The platform encompasses various modules such as Process Orchestration, Materiality Tracking, Process Lifecycle Governance, SAP Scope Item Cockpit, and Process Modeling, each contributing to the seamless implementation and governance of SAP business processes.
+
+</div>

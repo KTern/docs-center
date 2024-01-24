@@ -1,8 +1,8 @@
 ---
 title: "Clone and Create"
 date: 2023-05-02T16:06:05+06:00
-lastmod: 2023-05-1T20:02:05+06:00
-weight: 10
+lastmod: 2024-01-22T20:02:05+06:00
+weight: 12
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]

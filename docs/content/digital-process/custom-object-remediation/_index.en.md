@@ -2,7 +2,7 @@
 title: "Custom Objects Remediation"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
-weight: 9
+weight: 13
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
