@@ -1,8 +1,8 @@
 ---
 title: "Custom Objects Assessment"
-date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 3
+date: 2024-01-28T11:02:05+06:00
+lastmod: 2024-01-28T11:02:05+06:00
+weight: 25
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
@@ -10,6 +10,8 @@ keywords: ["induct", "instate"]
 <div style='text-align: justify;'>
 
 Every organization is unique and has its own business process. SAP’s standard software cannot cover all the business processes completely. Therefore, to meet the individual requirements of organizations, the standard SAP software is customized or adapted to suit the business needs. You can enhance SAP’s standard software through custom objects.
+
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/66_custom_objects_assessment_digital_maps.png)
 
 What will happen to these customizations when you migrate from SAP ECC to SAP S/4HANA? KTern performs the Custom Objects Assessment precisely to find out this information.
 

@@ -1,37 +1,34 @@
 ---
-title: "Project Creation"
+title: "Project Creation [App Onboarding]"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
+lastmod: 2024-01-26T11:02:05+06:00
 weight: 2
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
+<div style='text-align: justify;'>
 
-
-### Before you begin
-
-You should be a KTern.AI administrator (i.e. someone with the Administer global permission). Many of the tasks involved can only be performed by a KTern.AI administrator, such as creating a project, modifying a workflow, etc. 
-
-The topics in this section cover the activities that you will need to do when configuring a project:
-
-### Steps involved in creating a new Project
+#### Steps involved in creating a new Project
 
 Consider the following steps to get started with the project creation:
 
-1.	Login using the credentials.
+1. Upon logging into the KTern application, you will be redirected to the Home - Project Launchpad. 
 
-2.	Upon successful login, you will be taken to Home – Project Launchpad screen as shown below:
+![1-app-onboarding-login](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/1-app-onboarding-login.png)
 
-    ![](https://storage.googleapis.com/ktern-docs-files/create-new-project-1.png)
+2. To create a new project, click on the "+" icon.
 
-3. If you are an Administrator, you will be able to see ‘Create Project’ button. 
+![2-app-onboarding-+icon](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/2-app-onboarding-+icon.png)
 
-    ![](https://storage.googleapis.com/ktern-docs-files/create-new-project-2.png)
+3. Then, you will be directed to a page where you can select the transformation project template.
 
-4.	On clicking ‘Create Project’ button, you will be landed to Create Project Wizard as shown below:
+![3-app-onboarding-template-usecase-industry-vertical](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/3-app-onboarding-template-usecase-industry-vertical.png)
 
-    ![](https://storage.googleapis.com/ktern-docs-files/create-new-project-3.png)
+4. Here, users have the benefit of using the exact template by narrowing down the required use case, industrial vertical, product, and line of business.
+
+![4-app-onboarding-template-product-lob](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/4-app-onboarding-template-product-lob.png)
+
 
 5.	**Basic Details:** This page allows the administrators to input the basic details of the project.
 
