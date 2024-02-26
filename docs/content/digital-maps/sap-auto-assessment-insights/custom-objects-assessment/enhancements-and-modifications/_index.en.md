@@ -9,6 +9,12 @@ keywords: ["induct", "instate"]
 ---
 <div style='text-align: justify;'>
 
+KTern also provides a summary of the Enhancements and Modifications that are going to be impacted during the transition from ECC to S/4HANA. This is particularly helpful because there is only a minute difference between Enhancements and Modifications.
+
+Enhancement in SAP is adding or modifying the logic of SAP standard program without modifying the standard object. It consists of customer exit, Business transaction event (BTE) and Business add-ins (BADI).
+
+Modification in SAP is adding or modifying the logic of standard program by modifying SAP standard object.
+
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/77_launch_total_no.of_enhancements_custom_objects_assessment_digital_maps.png)
  
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/78_total_no.of_enhancements_custom_objects_assessment_digital_maps.png)

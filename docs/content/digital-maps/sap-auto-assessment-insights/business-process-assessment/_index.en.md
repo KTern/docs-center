@@ -1,7 +1,7 @@
 ---
 title: "Business Process Assessment"
 date: 2024-01-28T11:02:05+06:00
-lastmod: 2024-01-28T11:02:05+06:00
+lastmod: 2024-02-26T11:02:05+06:00
 weight: 17
 draft: false
 # search related keywords

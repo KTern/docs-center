@@ -11,7 +11,7 @@ keywords: ["induct", "instate"]
 
 Some of the features of KTern’s Digital Maps include:
 
-</br>**1. Simulation of Business Proceses:**
+</br>**1. Simulation of Business Processes:**
 <ul>
 i. Performs AS-IS simulation to understand the current state of business processes.
 
