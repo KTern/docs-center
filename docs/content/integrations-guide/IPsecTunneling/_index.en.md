@@ -64,3 +64,6 @@ Note : As per SAP standard architecture guidelines, the SAP Gateway carries out 
 3. SAP Ports reference : [https://help.sap.com/docs/Security/575a9f0e56f34c6e8138439eefc32b16/616a3c0b1cc748238de9c0341b15c63c.html​](https://help.sap.com/docs/Security/575a9f0e56f34c6e8138439eefc32b16/616a3c0b1cc748238de9c0341b15c63c.html​)
 
 4. SAP Gateway reference : [https://help.sap.com/saphelp_gbt10/helpdata/EN/48/ace6623b1e35bae10000000a42189d/content.htm?no_cache=true](https://help.sap.com/saphelp_gbt10/helpdata/EN/48/ace6623b1e35bae10000000a42189d/content.htm?no_cache=true)
+
+
+Note: In all the above approaches, the client team shall ensure stable connectivity without interruptions.

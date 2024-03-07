@@ -83,3 +83,6 @@ Upon successful connection, the system status will indicate 'Connected' with a s
 In case of failure, an error message will be displayed. Refer to the provided instructions to troubleshoot and attempt connection again if necessary.
 
 With the successful establishment of the connection, users can now execute KTern.AI automated activities seamlessly, leveraging the connectivity facilitated by the KTern.AI On-Premise Connector.
+
+
+Note: In all the above approaches, the client team shall ensure stable connectivity without interruptions.
