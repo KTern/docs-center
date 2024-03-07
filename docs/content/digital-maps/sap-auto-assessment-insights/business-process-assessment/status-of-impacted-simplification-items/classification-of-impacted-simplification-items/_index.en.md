@@ -2,7 +2,7 @@
 title: "Classification of Impacted Simplification Items based on Status"
 date: 2024-02-26T11:02:05+06:00
 lastmod: 2024-02-26T11:02:05+06:00
-weight: 22
+weight: 28
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]

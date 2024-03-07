@@ -1,7 +1,7 @@
 ---
 title: "SAP Cloud ALM - KTern.AI Integration Guide"
 date: 2022-11-15T11:02:05+06:00
-lastmod: 2024-01-22T11:02:05+06:00
+lastmod: 2024-03-07T11:02:05+06:00
 weight: 2
 draft: false
 # search related keywords
@@ -9,13 +9,13 @@ keywords: ["induct", "instate"]
 ---
 <div style='text-align: justify;'>
 
-## About SAP Cloud ALM and KTern.AI
+### About SAP Cloud ALM and KTern.AI
 
 SAP Cloud ALM helps you implement and operate intelligent cloud and hybrid business solutions. You benefit from an out-of-the-box, native cloud solution designed as the central entry point to manage your SAP landscape.
 
 KTern.AI's vision is to inspire and democratize your SAP-centric Digital Transformation as a Service (DXaaS) with data-driven hyperautomation and tribal knowledge intelligence. With the DXaaS Automation Platform, KTern.AI ensures success in SAP investments for enterprise customers and partners.
 
-## Rapid SAP Transformation Planning
+### Rapid SAP Transformation Planning
 
 </br>1. KTern.AI and SAP Cloud ALM offer a joint value proposition to achieve accelerated SAP implementations and efficient SAP operations.
 
@@ -45,7 +45,7 @@ KTern.AI's vision is to inspire and democratize your SAP-centric Digital Transfo
 
 ![SAP Cloud ALM and KTern.AI](https://storage.googleapis.com/ktern-docs-files/integrations/sap%20cloud%20alm/alm7.png 'SAP Cloud ALM and KTern.AI')
 
-## SAP Cloud ALM REST APIs
+### SAP Cloud ALM REST APIs
 
 KTern.AI leverages the following REST APIs of SAP Cloud ALM in the SAP API Business Hub for the purpose of this integration.
 

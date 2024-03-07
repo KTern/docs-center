@@ -2,7 +2,7 @@
 title: "Training Scenarios & Recommendations"
 date: 2024-02-26T11:02:05+06:00
 lastmod: 2024-02-26T11:02:05+06:00
-weight: 24
+weight: 34
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]

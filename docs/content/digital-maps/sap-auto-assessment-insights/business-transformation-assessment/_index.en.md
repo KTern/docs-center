@@ -53,12 +53,12 @@ keywords: ["induct", "instate"]
 <ul>
 
 **i. Types of Transformations:**
-</br>a. Process Transformation
-</br>b. Experience Transformation
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; a. Process Transformation
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Experience Transformation
 
 **ii. Types of Views:**
-</br>a. Process or Catalog View
-</br>b. Tree View
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;a. Process or Catalog View
+</br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;b. Tree View
 </ul>
 
 </div>

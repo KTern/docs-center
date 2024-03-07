@@ -1,8 +1,8 @@
 ---
 title: "Process View"
 date: 2024-01-28T11:02:05+06:00
-lastmod: 2024-01-28T11:02:05+06:00
-weight: 8
+lastmod: 2024-03-07T11:02:05+06:00
+weight: 6
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
