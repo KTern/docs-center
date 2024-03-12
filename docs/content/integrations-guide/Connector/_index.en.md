@@ -8,6 +8,7 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
+<div style='text-align: justify;'>
 
 ### Introduction
 
@@ -76,3 +77,5 @@ With the successful establishment of the connection, users can now execute KTern
 
 
 Note: In all the above approaches, the client team shall ensure stable connectivity without interruptions.
+
+</div>

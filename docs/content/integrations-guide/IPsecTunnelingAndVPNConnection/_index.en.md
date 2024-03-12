@@ -8,6 +8,8 @@ draft: false
 keywords: ["induct", "instate"]
 ---
 
+<div style='text-align: justify;'>
+
 ## I. CLIENT-SIDE IPsec TUNNEL CONNECTIVITY
 
 ### Introduction
@@ -111,3 +113,5 @@ Note : As per SAP standard architecture guidelines, the SAP Gateway carries out 
  [https://help.sap.com/saphelp_gbt10/helpdata/EN/48/ace6623b1e35bae10000000a42189d/content.htm?no_cache=true](https://help.sap.com/saphelp_gbt10/helpdata/EN/48/ace6623b1e35bae10000000a42189d/content.htm?no_cache=true)
  
 Note: In all the above approaches, the client team shall ensure stable connectivity without interruptions.
+
+</div>
