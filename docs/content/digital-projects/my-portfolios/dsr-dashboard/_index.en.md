@@ -18,7 +18,7 @@ Assign weightage and milestone progress to respective items in the project plan.
 
 ![ProgramOverallProgress](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/DSR%20dashboard/ProgramOverallProgress.png)
 
-#### 2. Timeline (Year)project
+#### 2. Timeline (Year) project
 
 This KPI offers a monthly and weekly overview based on the start and end date of the current active Level 1 item.
 
@@ -37,7 +37,7 @@ To understand on how to create custom boards, [click on this link](https://ktern
 
 ![Program_momentum](https://storage.googleapis.com/ktern-public-files/product-documentation/Portfolio/DSR%20dashboard/Program_momentum.png)
 
-**Note** :
+**Note** <br>
 i. Click the 'Save Version' button to preserve the latest versions for the same day. Save versions every day for accurate historical data.
 
 ii. Daily Version History allows the display of daily versions of DSR activities by selecting a date in the calendar menu.
