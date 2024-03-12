@@ -9,53 +9,37 @@ keywords: ["induct", "instate"]
 ---
 <div style='text-align: justify;'>
 
-<ul>
-<li>
-Upon logging into the KTern application, you will be redirected to the Home - Project Launchpad. 
-</li>
+</br>1. Upon logging into the KTern application, you will be redirected to the Home - Project Launchpad. 
 
 ![1-app-onboarding-login](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/1-app-onboarding-login.png)
 
-<li>
-To create a new project, click on the "+" icon.
-</li>
+</br>2. To create a new project, click on the "+" icon.
 
 ![2-app-onboarding-+icon](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/2-app-onboarding-+icon.png)
 
-<li>
-Then, you will be directed to a page where you can select the transformation project template.
-</li>
+</br>3.Then, you will be directed to a page where you can select the transformation project template.
 
 ![3-app-onboarding-template-usecase-industry-vertical](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/3-app-onboarding-template-usecase-industry-vertical.png)
 
-<li>
-Here, users have the benefit of using the exact template by narrowing down the required use case, industrial vertical, product, and line of business.
-</li>
+</br>4. Here, users have the benefit of using the exact template by narrowing down the required use case, industrial vertical, product, and line of business.
 
 ![4-app-onboarding-template-product-lob](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/4-app-onboarding-template-product-lob.png)
 
-<li>
-After selecting the desired template, you can modify and edit the project name and details such as project ID, organization (customer name, system integrator name), timeline (span of the project), product version (1809, 1909, 2020, 2021), and calendar type.
-</li>
+</br>5.After selecting the desired template, you can modify and edit the project name and details such as project ID, organization (customer name, system integrator name), timeline (span of the project), product version (1809, 1909, 2020, 2021), and calendar type.
 
 ![5-app-onboarding-use-this-template](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/5-app-onboarding-use-this-template.png)
 
 ![6-project-details](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/6-project-details.png)
 
-<li>
-Under the "Update Digital Entities" Workplace, you can import a list of users who should be part of this project. If you want to add users later, you can do so on the users page of the Transformation Hub.
-</li>
+</br>6. Under the "Update Digital Entities" Workplace, you can import a list of users who should be part of this project. If you want to add users later, you can do so on the users page of the Transformation Hub.
 
 ![7-import-data-users-i](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/7-import-data-users-i.png)
 
-<li>
-To understand the template for the Excel file, you can download the KTern Model Template - Users.xlsx.
-</li>
+</br>7. To understand the template for the Excel file, you can download the KTern Model Template - Users.xlsx.
 
 ![8-import-data-users-ii](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/8-import-data-users-ii.png)
 
-<li>
-Then, upload the prepared Excel file.
+</br>8. Then, upload the prepared Excel file.
 </li>
 
 ![9-import-data-users-iii](https://storage.googleapis.com/ktern-public-files/product-documentation/App%20Onboarding/9-import-data-users-iii.png)
