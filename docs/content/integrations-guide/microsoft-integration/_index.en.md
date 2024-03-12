@@ -1,5 +1,5 @@
 ---
-title: "Microsoft Outlook - KTern.AI Integration Guide"
+title: "Microsoft - KTern.AI Integration Guide"
 date: 2024-01-22T11:02:05+06:00
 lastmod: 2024-03-07T11:02:05+06:00
 weight: 1
@@ -9,13 +9,13 @@ keywords: ["induct", "instate"]
 ---
 <div style='text-align: justify;'>
 
-### About Microsoft Outlook Integration and KTern.AI
+### About Microsoft Integration and KTern.AI
 
 Microsoft Integration within KTern.AI streamlines project management and collaboration processes, enhancing efficiency and communication within teams. By seamlessly integrating with Microsoft Teams and Outlook, KTern.AI optimizes workflow and facilitates effective project coordination.
 
 KTern.AI, driven by a vision to democratize digital transformation, empowers organizations with data-driven hyperautomation and intelligent insights. As a Digital Transformation as a Service (DXaaS) platform, KTern.AI leverages automation and tribal knowledge intelligence to drive success in Microsoft-centric projects for enterprise customers and partners.
 
-### Steps to Integrate Microsoft Outlook and KTern.AI
+### Steps to Integrate Microsoft and KTern.AI
 
 </br>1. Upon logging into KTern, click the "+" icon and choose the template.
 

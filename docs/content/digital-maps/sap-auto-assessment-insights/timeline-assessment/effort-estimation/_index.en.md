@@ -2,7 +2,7 @@
 title: "Effort Estimation"
 date: 2024-01-28T11:02:05+06:00
 lastmod: 2024-01-28T11:02:05+06:00
-weight: 40
+weight: 48
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]

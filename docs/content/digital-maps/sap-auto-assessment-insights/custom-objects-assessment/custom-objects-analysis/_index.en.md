@@ -13,6 +13,8 @@ keywords: ["induct", "instate"]
 
 </br>2. Without a single unified view of all the custom objects, it is very difficult to figure this out. However, KTern is here to save the day.
 
+![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/66_custom_objects_assessment_digital_maps.png)
+
 </br>3. With this feature of KTern, you can gain analytical insights on the following:
 <ul>
 </br>i. Custom packages with respect to the number of objects
