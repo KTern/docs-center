@@ -10,11 +10,9 @@ keywords: ["induct", "instate"]
 
 
 ### Introduction
-
 The KTern.AI On-Premise Connector facilitates client-side connectivity with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI web application. 
 
 ### Prerequisites
-
 1. Ensure access to the SAP client network or establish a connection through Remote Access VPN or Site-to-Site VPN.
 2. Port 33xx must be accessible in the client network, serving as the default SAP Gateway port.
 Where xx relates to the Instance number of SAP system, SAP Ports reference : [https://help.sap.com/viewer/ports](https://help.sap.com/viewer/ports).
@@ -25,29 +23,23 @@ Where xx relates to the Instance number of SAP system, SAP Ports reference : [ht
 ### Procedure
 
 #### 1. Download KTern.AI Connector
-
 Click 'Download KTern Connector' and save the file in a preferred location on your desktop/laptop.
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/Connector_1.png)
 
 #### 2. Unzip the Downloaded File
-
 Unzip the downloaded 'KTern.zip' file to access its contents.
 
 #### 3. Launch the Application
-
 From the unzipped contents,click and launch the Application.
 
 #### 4. Wait for Initialization
-
 Wait for a few seconds for the application to launch and settle down in the taskbar system tray.
 
 #### 5. Access KTern.AI Web Application
-
 Once the application is settled in the system tray, proceed to use the KTern.AI web application.
 
 #### 6. Add a System in Landscape Management
-
 In the web app, navigate to 'Landscape Management' and click on '+ Add New System'.
 
 Enter the required details for the system configuration.
@@ -55,7 +47,6 @@ Enter the required details for the system configuration.
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/Connector_2.png)
 
 #### 7. Considerations
-
 Ensure compliance with the following considerations listed below the system configuration:
 
 1. Connectivity within the SAP client network or via VPN.
@@ -65,11 +56,9 @@ Ensure compliance with the following considerations listed below the system conf
 5. Network bandwidth and stability assurance.
 
 #### 8. Connect to the System
-
 Click 'Connect' to initiate the connection to the respective system.
 
 #### 9. Provide Credentials
-
 Enter the username and password of the respective system.
 
 Click 'Submit' and wait for a few seconds for the connection result.
@@ -77,7 +66,6 @@ Click 'Submit' and wait for a few seconds for the connection result.
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/Connector_3.png)
 
 #### 10. Verify Connection
-
 Upon successful connection, the system status will indicate 'Connected' with a success message.
 
 In case of failure, an error message will be displayed. Refer to the provided instructions to troubleshoot and attempt connection again if necessary.
