@@ -73,7 +73,7 @@ Note: In all the above approaches, the client team shall ensure stable connectiv
 
 ### Introduction
 
-The KTern.AI facilitates Client VPN Connection with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI web application using IPsec Tunneling.
+The KTern.AI facilitates Client VPN Connection with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI using Client VPN Connection.
 
 KTern.AI connects to SAP system via standard SAP RFC protocol, inorder to call RFC enabled function modules (SAP Business APIs). This connectivity can be enabled via client VPN approach by the customer.
  
