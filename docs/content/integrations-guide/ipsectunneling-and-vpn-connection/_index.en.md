@@ -10,17 +10,19 @@ keywords: ["induct", "instate"]
 
 <div style='text-align: justify;'>
 
-## I. CLIENT-SIDE IPsec TUNNEL CONNECTIVITY
+## I. Client-side IPSec Tunnel Connectivity
 
 ### Introduction
 
-The KTern.AI facilitates client-side IPsec Tunnel connectivity with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI web application using IPsec Tunneling.
+The KTern.AI facilitates client-side IPSec Tunnel connectivity with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI using IPsec Tunneling.
 
-KTern.AI connects to SAP system via standard SAP RFC protocol, inorder to call RFC enabled function modules (SAP Business APIs). This connectivity can be enabled via SAP Router by the customer. 
+KTern.AI connects to SAP system via standard SAP RFC protocol, inorder to call RFC enabled function modules (SAP Business APIs). This connectivity can be enabled via IPSec tunnelling approach by the customer.
 
-Note : As per SAP standard architecture guidelines, the SAP Gateway carries out RFC services within the SAP world, which are based on TCP/IP. These services enable SAP Systems & external programs to communicate with one another. 
+Note : As per SAP standard architecture guidelines, the SAP Gateway carries out RFC services within the SAP world, which are based on TCP/IP. These services enable SAP Systems & external programs to communicate with one another.  
+
  
 ### Prerequisites
+
 1. KTern.AI team will provide the necessary firewall details required to configure an IPSec tunnel to the client team.
 
 2. Client Network Team is responsible for generating a pre-shared key for the IPSec tunnel.
@@ -37,6 +39,7 @@ Note : As per SAP standard architecture guidelines, the SAP Gateway carries out 
 8. KTern.AI team will test and establish the IPSec tunneling and SAP system connectivity based on the provided details.
  
 ### SAP System Prerequisites
+
 1. A copy of the latest SAP Production system ('PRD') is required to set up the SAP Sandbox ('SBX') system.
 
 2. The following connection details for the 'SBX' system must be provided(Application Server, System ID, Instance Number,Client Number, Username, Password).
@@ -50,6 +53,7 @@ Note : As per SAP standard architecture guidelines, the SAP Gateway carries out 
 6. Port 33xx must be accessible in the client network, as it is the default SAP Gateway port. (Where 'xx' refers to the Instance Number of the SAP 'SBX' system).
  
 ### References 
+
 1. If translation of IP addresses is carried out using NAT, kindly refer to this SAP Note 148832.
 
 2. KTern.AI Digital Maps prerequisites rely on ST03N statistics, RFC communication user with ‘SAP_ALL’ authorization profile, as KTern.AI does a read-only scan and comprehensive analysis of the business processes, custom objects and landscape of SAP system through SAP RFC protocol for assessment. 
@@ -65,16 +69,17 @@ Note: In all the above approaches, the client team shall ensure stable connectiv
 
 
 
-## II. CLIENT VPN CONNECTION
+## II. Client VPN Connection
 
 ### Introduction
 
 The KTern.AI facilitates Client VPN Connection with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI web application using IPsec Tunneling.
 
-KTern.AI connects to SAP system via standard SAP RFC protocol, inorder to call RFC enabled function modules (SAP Business APIs). This connectivity can be enabled via SAP Router by the customer. 
+KTern.AI connects to SAP system via standard SAP RFC protocol, inorder to call RFC enabled function modules (SAP Business APIs). This connectivity can be enabled via client VPN approach by the customer.
  
 
 Note : As per SAP standard architecture guidelines, the SAP Gateway carries out RFC services within the SAP world, which are based on TCP/IP. These services enable SAP Systems & external programs to communicate with one another. 
+
 
 ### Prerequisites
 
