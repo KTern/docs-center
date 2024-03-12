@@ -1,13 +1,12 @@
 ---
 title: "Process Modeller"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 4
+lastmod: 2024-01-15T11:02:05+06:00
+weight: 11
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
 
 1. In the process cockpit, launch the respective process item.
 

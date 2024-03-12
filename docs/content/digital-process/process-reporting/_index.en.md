@@ -1,13 +1,12 @@
 ---
 title: "Process Reporting"
 date: 2021-01-15T11:02:05+06:00
-lastmod: 2021-01-15T11:02:05+06:00
-weight: 7
+lastmod: 2024-01-24T11:02:05+06:00
+weight: 15
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
 
 1. In the process cockpit, click on “Dashboard” to view the process dashboard
 

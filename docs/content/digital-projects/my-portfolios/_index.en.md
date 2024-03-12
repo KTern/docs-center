@@ -7,4 +7,8 @@ draft: false
 # search related keywords
 keywords: ["DSR", "Dashboardte","Portfolio"]
 ---
+<div style='text-align: justify;'>
 
+My Portfolios contains various dashboards and thereby helping you to come to a conlcusion on the progress of the project.
+
+</div>

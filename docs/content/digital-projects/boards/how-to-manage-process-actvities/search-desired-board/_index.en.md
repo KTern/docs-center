@@ -7,6 +7,8 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
+<div style='text-align: justify;'>
+
  <ul>
  <li>Due to the fact that the Board Titles are comprehend with the Task name and GSI. You can use the title or name of the board or GSI to search your board.</li>   
  <li>Let’s consider an example, you wish to view the boards which comes under “Manufacturing” GSI. To search for and find your preferred board, use the steps listed below</li>
@@ -18,3 +20,5 @@ keywords: ["induct", "instate"]
 
 ii) As soon as you type **"Manufacturing"** in the search bar **(1)**, all the boards related to manufacturing filtered out. In our case it’s "Finance Core Configuration and Documentation Signoff - Manufacturing" **(as displayed in the image below)**.
 ![manage-process-actvities-boards](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/search-bar.png)
+
+</div>

@@ -7,6 +7,7 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
+<div style='text-align: justify;'>
 
 Most of the time there could be a possibility that many process activities are cloned and
 created under each task, but it would be a mundane process to track the process
@@ -38,3 +39,4 @@ iv) To filter out the process activities which are overdue, you can click on the
 As you click on the overdue button the color of button changes to orange and hence it filters out the process activities which are overdue. As shown in below image, out of 3 process activity, 1 process activity was overdue.
 ![govern-process-activity](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/overdue-filter.PNG)
 
+</div>

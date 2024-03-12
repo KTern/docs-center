@@ -8,6 +8,7 @@ draft: false
 description: "Custom Boards facilitate the creation of personalized Boards with customized activities, which can be tailored to meet the specific requirements of the user.Custom Boards allow the creation of individual tasks independently, without the need for integration with the project plan. "
 type : "docs"
 ---
+<div style='text-align: justify;'>
 
 The steps below outline the steps for creating "custom Boards" and tasks:
 
@@ -53,3 +54,5 @@ Now click on the “Launch” icon to finish creating the Custom Board and the t
 
 ![Task.details](https://storage.googleapis.com/ktern-public-files/product-documentation/Boards/8_Task_Details.png
 )
+
+</div>

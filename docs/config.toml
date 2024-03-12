@@ -161,24 +161,30 @@ hasChildren = true
   name = "Digital Labs"
   url = "digital-labs/"
   weight = 5
+
+  [[Languages.en.menu.main]]
+  parent = "docs"
+  name = "Digital Mines"
+  url = "digital-mines/"
+  weight = 6
   
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "HANAPEDIA"
   url = "hanapedia/"
-  weight = 6
+  weight = 7
 
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "Integrations Guide"
   url = "integrations-guide/"
-  weight = 7
+  weight = 8
   
   [[Languages.en.menu.main]]
   parent = "docs"
   name = "General"
   url = "general/"
-  weight = 8
+  weight = 9
 
 
 ################################### Franch Language ######################

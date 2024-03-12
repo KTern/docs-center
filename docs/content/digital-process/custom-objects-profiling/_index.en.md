@@ -2,7 +2,7 @@
 title: "Custom Objects Profiling"
 date: 2021-01-15T11:02:05+06:00
 lastmod: 2021-01-15T11:02:05+06:00
-weight: 8
+weight: 14
 draft: false
 # search related keywords
 keywords: ["induct", "instate"]

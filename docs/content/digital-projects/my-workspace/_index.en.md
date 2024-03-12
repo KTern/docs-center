@@ -7,7 +7,7 @@ draft: false
 # search related keywords
 keywords: ["induct", "instate"]
 ---
-
+<div style='text-align: justify;'>
 
 After launching a project, a user will land up on the “My Workspace” screen by default. It is a dashboard which contains an overview of all the work items that you are a part of in the project. There are three main types of work items in the workspace – Tasks, Issues and Test Cases.
 
@@ -44,3 +44,5 @@ As of the latest release, the User can view the seven widgets such as
 8. **My Work Item Tracker:** This widget gives an interactive chart where the user can view the Planned vs Actual work items completed to view the linear growth of his performance in Project.
 
 ![](https://storage.googleapis.com/ktern-docs-files/my-workspace-7.png)
+
+</div>
