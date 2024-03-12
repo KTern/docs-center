@@ -10,9 +10,11 @@ keywords: ["induct", "instate"]
 
 
 ### Introduction
+
 The KTern.AI On-Premise Connector facilitates client-side connectivity with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI web application. 
 
 ### Prerequisites
+
 1. Ensure access to the SAP client network or establish a connection through Remote Access VPN or Site-to-Site VPN.
 2. Port 33xx must be accessible in the client network, serving as the default SAP Gateway port.
 Where xx relates to the Instance number of SAP system, SAP Ports reference : [https://help.sap.com/viewer/ports](https://help.sap.com/viewer/ports).
