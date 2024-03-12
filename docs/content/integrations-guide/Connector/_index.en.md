@@ -51,11 +51,11 @@ Enter the required details for the system configuration.
 #### 7. Considerations
 Ensure compliance with the following considerations listed below the system configuration:
 
-1. Connectivity within the SAP client network or via VPN.
-2. Accessibility of Port 33xx in the client network.
-3. Adherence to NAT translation guidelines if applicable.
-4. Authorization for RFC communication to the user.
-5. Network bandwidth and stability assurance.
+a. Connectivity within the SAP client network or via VPN.
+b. Accessibility of Port 33xx in the client network.
+c. Adherence to NAT translation guidelines if applicable.
+d. Authorization for RFC communication to the user.
+e. Network bandwidth and stability assurance.
 
 #### 8. Connect to the System
 Click 'Connect' to initiate the connection to the respective system.
