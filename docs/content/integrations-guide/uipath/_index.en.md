@@ -23,11 +23,11 @@ Before we move into the "How to", it's important to understand the terms in the 
 
 ### Fits and Test Sets
 
-Imagine a list of processes that require testing based on KTern's AERI results. The platform intelligently proposes the test cases for the identified processes with sampled test data. If these test cases are maintained in UiPath's Test Manager, the platform can identify the test cases in UiPath that require testing. The identified test cases appear as **Fits**. These Fits can, in turn, be created as **[Test Sets](https://docs.UiPath.com/orchestrator/lang-ru/docs/test-sets)** in UiPath for automated execution.
+Imagine a list of processes that require testing based on KTern's AERI results. The platform intelligently proposes the test cases for the identified processes with sampled test data. If these test cases are maintained in UiPath's Test Manager, the platform can identify the test cases in UiPath that require testing. The identified test cases appear as **Fits**. These Fits can, in turn, be created as **Test Sets** in UiPath for automated execution.
 
 ### Gaps and Test Requirements
 
-There can be instances where the identified processes that require testing, may or may not have testcases maintained in UiPath. In these cases, the recommended testcases from KTern appear as **Gaps**. These Gaps can inturn be created as **[Test Requirements](https://docs.UiPath.com/test-suite/docs/requirements)**.
+There can be instances where the identified processes that require testing, may or may not have testcases maintained in UiPath. In these cases, the recommended testcases from KTern appear as **Gaps**. These Gaps can inturn be created as **Test Requirements**.
 
 ### Generate App ID and App Secret
 
