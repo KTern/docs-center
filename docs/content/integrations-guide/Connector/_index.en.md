@@ -10,7 +10,6 @@ keywords: ["induct", "instate"]
 
 <div style='text-align: justify;'>
 
-### Introduction
 
 The KTern.AI On-Premise Connector facilitates client-side connectivity with any NetWeaver systems of SAP like SAP ECC, SAP S/4HANA, SAP CRM , SAP SRM and SAP BW enabling seamless integration with the KTern.AI. 
 
