@@ -39,8 +39,6 @@ i. Documents archiving potential
 </br>ii. Tables archiving potential
 </br>iii. Custom programs archiving potential
 
-![](https://storage.googleapis.com/ktern-docs-files/landscape-5.png)
-
 #### i. Documents Archiving Potential
 
 ![](https://storage.googleapis.com/ktern-public-files/product-documentation/Digital%20Maps/57_documents_archiving_recommendations_landscape_assessment_digital_maps.png)
@@ -70,7 +68,7 @@ You can also call various statistics for the amount of used database space.
 </li>
 </ul>
 
-![](https://storage.googleapis.com/ktern-docs-files/landscape-6.png)
+[comment]:(https://storage.googleapis.com/ktern-docs-files/landscape-6.png)
 
 #### iii. Custom programs archiving potential
  
